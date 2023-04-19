@@ -31,6 +31,9 @@ If you find our work useful in your research, please consider citing:
   - [Datasets for VLM Pre-training](#datasets-for-vlm-pre-training)
   - [Datasets for VLM Evaluation](#datasets-for-vlm-evaluation)
 - [Vision-Language Pre-training Methods](#vision-language-pre-training-methods)
+  - [Pre-training with Contrastive Objective](#pre-training-with-contrastive-objective)
+  - [Pre-training with Generative Objective](#pre-training-with-generative-objective)
+  - [Pre-training with Alignment Objective](#pre-training-with-alignment-objective)
 - [Vision-Language Model Transfer Learning Methods](#vision-language-model-transfer-learning-methods)
 - [Vision-Language Model Knowledge Distillation Methods](#vision-language-model-knowledge-distillation-methods)
 
@@ -115,6 +118,22 @@ If you find our work useful in your research, please consider citing:
 2. ADE20k [[Project Page](https://groups.csail.mit.edu/vision/datasets/ADE20K/)]
 
 ## Vision-Language Pre-training Methods
+
+### Pre-training with Contrastive Objective
+1. Learning Transferable Visual Models From Natural Language Supervision (CLIP) [[Paper](https://arxiv.org/pdf/2103.00020.pdf)][[Code](https://github.com/openai/CLIP)]
+2. Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision (ALIGN) [[Paper](https://arxiv.org/pdf/2102.05918.pdf)]
+3. Data Efficient Language-Supervised Zero-Shot Recognition with Optimal Transport Distillation (OTTER) [[Paper](https://arxiv.org/abs/2112.09445)][[Code](https://github.com/facebookresearch/OTTER)]
+4. Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm (DeCLIP) [[Paper](https://arxiv.org/abs/2110.05208)][[Code](https://github.com/Sense-GVT/DeCLIP)]
+5. Contrastive Vision-Language Pre-training with Limited Resources (ZeroVL) [[Paper](https://arxiv.org/abs/2112.09331)][[Code](https://github.com/zerovl/ZeroVL)]
+6. FILIP: Fine-grained Interactive Language-Image Pre-Training [[Paper](https://arxiv.org/abs/2111.07783)]
+7. Unified Contrastive Learning in Image-Text-Label Space (UniCL) [[Paper](https://arxiv.org/abs/2204.03610)][[Code](https://github.com/microsoft/UniCL)]
+8. Florence: A New Foundation Model for Computer Vision [[Paper](https://arxiv.org/abs/2111.11432)]
+9. SLIP: Self-supervision meets Language-Image Pre-training [[Paper](https://arxiv.org/abs/2112.12750)][[Code](https://github.com/facebookresearch/SLIP)]
+10. PyramidCLIP: Hierarchical Feature Alignment for Vision-language Model Pretraining [[Paper](https://arxiv.org/abs/2204.14095)]
+
+### Pre-training with Generative Objective
+
+### Pre-training with Alignment Objective
 
 ## Vision-Language Model Transfer Learning Methods
 
