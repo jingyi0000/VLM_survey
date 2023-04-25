@@ -130,6 +130,16 @@ If you find our work useful in your research, please consider citing:
 8. Florence: A New Foundation Model for Computer Vision [[Paper](https://arxiv.org/abs/2111.11432)]
 9. SLIP: Self-supervision meets Language-Image Pre-training [[Paper](https://arxiv.org/abs/2112.12750)][[Code](https://github.com/facebookresearch/SLIP)]
 10. PyramidCLIP: Hierarchical Feature Alignment for Vision-language Model Pretraining [[Paper](https://arxiv.org/abs/2204.14095)]
+11. Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese [[Paper](https://arxiv.org/abs/2211.01335)][[Code](https://github.com/OFA-Sys/Chinese-CLIP)]
+12. LiT: Zero-Shot Transfer with Locked-image text Tuning [[Paper](https://arxiv.org/abs/2111.07991)][[Code](https://google-research.github.io/vision_transformer/lit/)]
+13. AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities [[Paper](https://arxiv.org/abs/2211.06679)][[Code](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP)]
+14. FLAVA: A Foundational Language And Vision Alignment Model [[Paper](https://arxiv.org/abs/2112.04482)][[Code](https://github.com/facebookresearch/multimodal/tree/main/examples/flava)]
+15. Large-scale Bilingual Language-Image Contrastive Learning (KELIP)[[Paper](https://arxiv.org/abs/2203.14463)][[Code](https://github.com/navervision/KELIP)]
+16. CoCa: Contrastive Captioners are Image-Text Foundation Models [[Paper](https://arxiv.org/abs/2205.01917)][[Code](https://github.com/lucidrains/CoCa-pytorch)]
+17. Non-Contrastive Learning Meets Language-Image Pre-Training (nCLIP) [[Paper](https://arxiv.org/abs/2210.09304)]
+18. K-LITE: Learning Transferable Visual Models with External Knowledge [[Paper](https://arxiv.org/abs/2204.09222)][[Code](https://github.com/microsoft/klite)]
+19. NLIP: Noise-robust Language-Image Pre-training [[Paper](https://arxiv.org/abs/2212.07086)]
+20. UniCLIP: Unified Framework for Contrastive Language-Image Pre-training [[Paper](https://arxiv.org/abs/2209.13430)]
 
 ### Pre-training with Generative Objective
 
