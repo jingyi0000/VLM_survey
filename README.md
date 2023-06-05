@@ -44,20 +44,20 @@ If you find our work useful in your research, please consider citing:
 ### Datasets for VLM Pre-training
 
 
-| Dataset                                             |  Year  |     Num of Image-Text Paris     |     Language     | Project Link |                                  
+| Dataset                                             |  Year  |     Num of Image-Text Paris     |     Language     | Project |                                  
 |-----------------------------------------------------|:------:|:-------------------------------:|:----------------:|:------------:|
-|[SBU Caption](https://proceedings.neurips.cc/paper_files/paper/2011/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)|2011|1M|English|[Project Page](https://www.cs.rice.edu/~vo9/sbucaptions/)|
-|[COCO Caption](https://arxiv.org/pdf/1504.00325v2.pdf)|2016|1.5M|English|[Project Page](https://github.com/tylin/coco-caption)|
-|[Yahoo Flickr Creative Commons 100 Million (YFCC100M)](https://arxiv.org/pdf/1503.01817v2.pdf)|2016|100M|English|[Project Page](http://projects.dfki.uni-kl.de/yfcc100m/)|
-|[Visual Genome](https://arxiv.org/pdf/1602.07332v1.pdf)|2017|5.4M|English|[Project Page](http://visualgenome.org/)|
-|[Conceptual Captions (CC3M)](https://aclanthology.org/P18-1238.pdf)|2018|3.3M|English|[Project Page](https://ai.google.com/research/ConceptualCaptions/)|
-|[Localized Narratives](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500630.pdf)|2020|0.87M|English|[Project Page](https://google.github.io/localized-narratives/)|
-|[Conceptual 12M (CC12M)](https://openaccess.thecvf.com/content/CVPR2021/papers/Changpinyo_Conceptual_12M_Pushing_Web-Scale_Image-Text_Pre-Training_To_Recognize_Long-Tail_Visual_CVPR_2021_paper.pdf)|2021|12M|English|[Project Page](https://github.com/google-research-datasets/conceptual-12m)|
-|[Wikipedia-based Image Text (WIT)](https://arxiv.org/pdf/2103.01913v2.pdf)|2021|37.6M|108 Languages|[Project Page](https://github.com/google-research-datasets/wit)|
-|[Red Caps](https://arxiv.org/pdf/2111.11431v1.pdf)|2021|12M|English|[Project Page](https://redcaps.xyz/)|
-|[LAION400M](https://arxiv.org/pdf/2111.02114v1.pdf)|2021|400M|English|[Project Page](https://laion.ai/blog/laion-400-open-dataset/)|
-|[LAION5B](https://arxiv.org/pdf/2210.08402.pdf)|2022|5B|Over 100 Languages|[Project Page](https://laion.ai/blog/laion-5b/)|
-|[WuKong](https://arxiv.org/pdf/2202.06767.pdf)|2022|100M|Chinese|[Project Page](https://wukong-dataset.github.io/wukong-dataset/)|
+|[SBU Caption](https://proceedings.neurips.cc/paper_files/paper/2011/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)|2011|1M|English|[Project](https://www.cs.rice.edu/~vo9/sbucaptions/)|
+|[COCO Caption](https://arxiv.org/pdf/1504.00325v2.pdf)|2016|1.5M|English|[Project](https://github.com/tylin/coco-caption)|
+|[Yahoo Flickr Creative Commons 100 Million](https://arxiv.org/pdf/1503.01817v2.pdf)|2016|100M|English|[Project](http://projects.dfki.uni-kl.de/yfcc100m/)|
+|[Visual Genome](https://arxiv.org/pdf/1602.07332v1.pdf)|2017|5.4M|English|[Project](http://visualgenome.org/)|
+|[Conceptual Captions 3M](https://aclanthology.org/P18-1238.pdf)|2018|3.3M|English|[Project](https://ai.google.com/research/ConceptualCaptions/)|
+|[Localized Narratives](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500630.pdf)|2020|0.87M|English|[Project](https://google.github.io/localized-narratives/)|
+|[Conceptual 12M](https://openaccess.thecvf.com/content/CVPR2021/papers/Changpinyo_Conceptual_12M_Pushing_Web-Scale_Image-Text_Pre-Training_To_Recognize_Long-Tail_Visual_CVPR_2021_paper.pdf)|2021|12M|English|[Project](https://github.com/google-research-datasets/conceptual-12m)|
+|[Wikipedia-based Image Text](https://arxiv.org/pdf/2103.01913v2.pdf)|2021|37.6M|108 Languages|[Project](https://github.com/google-research-datasets/wit)|
+|[Red Caps](https://arxiv.org/pdf/2111.11431v1.pdf)|2021|12M|English|[Project](https://redcaps.xyz/)|
+|[LAION400M](https://arxiv.org/pdf/2111.02114v1.pdf)|2021|400M|English|[Project](https://laion.ai/blog/laion-400-open-dataset/)|
+|[LAION5B](https://arxiv.org/pdf/2210.08402.pdf)|2022|5B|Over 100 Languages|[Project](https://laion.ai/blog/laion-5b/)|
+|[WuKong](https://arxiv.org/pdf/2202.06767.pdf)|2022|100M|Chinese|[Project](https://wukong-dataset.github.io/wukong-dataset/)|
 ||||||
 |[CLIP](https://arxiv.org/pdf/2103.00020.pdf)|2021|400M|English|Non-Public|
 |[ALIGN](https://arxiv.org/pdf/2102.05918.pdf)|2021|1.8B|English|Non-Public|
