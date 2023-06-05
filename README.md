@@ -43,81 +43,77 @@ If you find our work useful in your research, please consider citing:
 
 ### Datasets for VLM Pre-training
 
-#### Public Datasets
-1. SBU Caption [[Paper](https://proceedings.neurips.cc/paper_files/paper/2011/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)] [[Project Page](https://www.cs.rice.edu/~vo9/sbucaptions/)]
-2. COCO Caption [[Paper](https://arxiv.org/pdf/1504.00325v2.pdf)] [[Project Page](https://github.com/tylin/coco-caption)]
-3. Yahoo Flickr Creative Commons 100 Million (YFCC100M) [[Paper](https://arxiv.org/pdf/1503.01817v2.pdf)] [[Project Page](http://projects.dfki.uni-kl.de/yfcc100m/)]
-4. Visual Genome [[Paper](https://arxiv.org/pdf/1602.07332v1.pdf)] [[Project Page](http://visualgenome.org/)]
-5. Conceptual Captions (CC3M) [[Paper](https://aclanthology.org/P18-1238.pdf)] [[Project Page](https://ai.google.com/research/ConceptualCaptions/)]
-6. Localized Narratives [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500630.pdf)] [[Project Page](https://google.github.io/localized-narratives/)]
-7. Conceptual 12M (CC12M) [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Changpinyo_Conceptual_12M_Pushing_Web-Scale_Image-Text_Pre-Training_To_Recognize_Long-Tail_Visual_CVPR_2021_paper.pdf)] [[Project Page](https://github.com/google-research-datasets/conceptual-12m)]
-8. Wikipedia-based Image Text (WIT) [[Paper](https://arxiv.org/pdf/2103.01913v2.pdf)] [[Project Page](https://github.com/google-research-datasets/wit)]
-9. Red Caps [[Paper](https://arxiv.org/pdf/2111.11431v1.pdf)] [[Project Page](https://redcaps.xyz/)]
-10. LAION400M [[Paper](https://arxiv.org/pdf/2111.02114v1.pdf)] [[Project Page](https://laion.ai/blog/laion-400-open-dataset/)]
-11. LAION5B [[Paper](https://arxiv.org/pdf/2210.08402.pdf)] [[Project Page](https://laion.ai/blog/laion-5b/)]
-12. WuKong [[Paper](https://arxiv.org/pdf/2202.06767.pdf)] [[Project Page](https://wukong-dataset.github.io/wukong-dataset/)]
 
-#### Non-public Datasets
-1. CLIP [[Paper](https://arxiv.org/pdf/2103.00020.pdf)]
-2. ALIGN [[Paper](https://arxiv.org/pdf/2102.05918.pdf)]
-3. FILIP [[Paper](https://arxiv.org/pdf/2111.07783.pdf)]
-4. WebLI [[Paper](https://arxiv.org/pdf/2209.06794.pdf)]
+| Dataset                                             |  Year  |     Num of Image-Text Paris     |     Language     | Project Link |                                  
+|-----------------------------------------------------|:------:|:-------------------------------:|:----------------:|:------------:|
+|[SBU Caption](https://proceedings.neurips.cc/paper_files/paper/2011/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)|2011|1M|English|[Project Page](https://www.cs.rice.edu/~vo9/sbucaptions/)|
+|[COCO Caption](https://arxiv.org/pdf/1504.00325v2.pdf)|2016|1.5M|English|[Project Page](https://github.com/tylin/coco-caption)|
+|[Yahoo Flickr Creative Commons 100 Million (YFCC100M)](https://arxiv.org/pdf/1503.01817v2.pdf)|2016|100M|English|[Project Page](http://projects.dfki.uni-kl.de/yfcc100m/)|
+|[Visual Genome](https://arxiv.org/pdf/1602.07332v1.pdf)|2017|5.4M|English|[Project Page](http://visualgenome.org/)|
+|[Conceptual Captions (CC3M)](https://aclanthology.org/P18-1238.pdf)|2018|3.3M|English|[Project Page](https://ai.google.com/research/ConceptualCaptions/)|
+|[Localized Narratives](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500630.pdf)|2020|0.87M|English|[Project Page](https://google.github.io/localized-narratives/)|
+|[Conceptual 12M (CC12M)](https://openaccess.thecvf.com/content/CVPR2021/papers/Changpinyo_Conceptual_12M_Pushing_Web-Scale_Image-Text_Pre-Training_To_Recognize_Long-Tail_Visual_CVPR_2021_paper.pdf)|2021|12M|English|[Project Page](https://github.com/google-research-datasets/conceptual-12m)|
+|[Wikipedia-based Image Text (WIT)](https://arxiv.org/pdf/2103.01913v2.pdf)|2021|37.6M|108 Languages|[Project Page](https://github.com/google-research-datasets/wit)|
+|[Red Caps](https://arxiv.org/pdf/2111.11431v1.pdf)|2021|12M|English|[Project Page](https://redcaps.xyz/)|
+|[LAION400M](https://arxiv.org/pdf/2111.02114v1.pdf)|2021|400M|English|[Project Page](https://laion.ai/blog/laion-400-open-dataset/)|
+|[LAION5B](https://arxiv.org/pdf/2210.08402.pdf)|2022|5B|Over 100 Languages|[Project Page](https://laion.ai/blog/laion-5b/)|
+|[WuKong](https://arxiv.org/pdf/2202.06767.pdf)|2022|100M|Chinese|[Project Page](https://wukong-dataset.github.io/wukong-dataset/)|
+||||||
+|[CLIP](https://arxiv.org/pdf/2103.00020.pdf)|2021|400M|English|Non-Public|
+|[ALIGN](https://arxiv.org/pdf/2102.05918.pdf)|2021|1.8B|English|Non-Public|
+|[FILIP](https://arxiv.org/pdf/2111.07783.pdf)|2021|300M|English|Non-Public|
+|[WebLI](https://arxiv.org/pdf/2209.06794.pdf)|2022|12B|English|Non-Public|
 
 
 
 ### Datasets for VLM Evaluation
 
-#### Image Classification
-1. MNIST [[Project Page](http://yann.lecun.com/exdb/mnist/)]
-2. Caltech-101 [[Project Page](https://data.caltech.edu/records/mzrjq-6wc02)]
-3. PASCAL VOC 2007 Classification [[Project Page](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/)]
-4. Oxford 102 Folwers [[Project Page](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)]
-5. CIFAR-10 [[Project Page](https://www.cs.toronto.edu/~kriz/cifar.html)]
-6. CIFAR-100 [[Project Page](https://www.cs.toronto.edu/~kriz/cifar.html)]
-7. ImageNet-1k [[Project Page](https://www.image-net.org/)]
-8. SUN397 [[Project Page](https://vision.princeton.edu/projects/2010/SUN/)]
-9. SVHN [[Project Page](http://ufldl.stanford.edu/housenumbers/)]
-10. STL-10 [[Project Page](https://cs.stanford.edu/~acoates/stl10/)]
-11. GTSRB [[Project Page](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)]
-12. KITTI Distance [[Project Page](https://github.com/harshilpatel312/KITTI-distance-estimation)]
-13. IIIT5k [[Project Page](https://cvit.iiit.ac.in/research/projects/cvit-projects/the-iiit-5k-word-dataset)]
-14. Oxford-IIIT PETS [[Project Page](https://www.robots.ox.ac.uk/~vgg/data/pets/)]
-15. Stanford Cars [[Project Page](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)]
-16. FGVC Aircraft [[Project Page](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)]
-17. Facial Emotion Recognition 2013 [[Project Page](https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/data)]
-18. Rendered SST2 [[Project Page](https://github.com/openai/CLIP/blob/main/data/rendered-sst2.md)]
-19. Describable Textures (DTD) [[Project Page](https://www.robots.ox.ac.uk/~vgg/data/dtd/)]
-20. Food-101 [[Project Page](https://www.kaggle.com/datasets/dansbecker/food-101)]
-21. Birdsnap [[Project Page](https://thomasberg.org/)]
-22. RESISC45 [[Project Page](https://pan.baidu.com/s/1mifR6tU?_at_=1679281159364#list/path=%2F)]
-23. CLEVR Counts [[Project Page](https://cs.stanford.edu/people/jcjohns/clevr/)]
-24. PatchCamelyon [[Project Page](https://github.com/basveeling/pcam)]
-25. EuroSAT [[Project Page](https://github.com/phelber/eurosat)]
-26. Hateful Memes [[Project Page](https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/)]
-27. Country211 [[Project Page](https://github.com/openai/CLIP/blob/main/data/country211.md)]
-
-
-
-#### Image-Text Retrieval
-1. Flickr30k [[Project Page](https://shannon.cs.illinois.edu/DenotationGraph/)]
-2. COCO Caption [[Project Page](https://github.com/tylin/coco-caption)]
-
-#### Action Recognition
-1. UCF101 [[Project Page](https://www.crcv.ucf.edu/data/UCF101.php)]
-2. Kinetics700 [[Project Page](https://www.deepmind.com/open-source/kinetics)]
-3. RareAct [[Project Page](https://github.com/antoine77340/RareAct)]
-
-#### Object Detection
-1. COCO 2014 Detection [[Project Page](https://www.kaggle.com/datasets/jeffaudi/coco-2014-dataset-for-yolov3)]
-2. COCO 2017 Detection [[Project Page](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset)]
-3. LVIS [[Project Page](https://www.lvisdataset.org/)]
-4. ODinW [[Project Page](https://eval.ai/web/challenges/challenge-page/1839/overview)]
-
-#### Semantic Segmentation
-1. PASCAL VOC 2012 Segmentation [[Project Page](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)]
-2. PASCAL Content [[Project Page](https://www.cs.stanford.edu/~roozbeh/pascal-context/)]
-2. Cityscapes [[Project Page](https://www.cityscapes-dataset.com/)]
-2. ADE20k [[Project Page](https://groups.csail.mit.edu/vision/datasets/ADE20K/)]
+| Dataset                                             |  Year  | Classes | Training | Testing | Evaluation Task |Evaluation Metric| Project Link|                                  
+|-----------------------------------------------------|:------:|:-------:|:--------:|:-------:|:----:|:------:|:-----------:|
+|MNIST|1998|10|60,000|10,000|Image Classification|Accuracy|[Project Page](http://yann.lecun.com/exdb/mnist/)|
+|Caltech-101|2004|102|3,060|6,085|Image Classification|Mean Per Class|[Project Page](https://data.caltech.edu/records/mzrjq-6wc02)|
+|PASCAL VOC 2007|2007|20|5,011|4,952|Image Classification|11-point mAP|[Project Page](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/)|
+|Oxford 102 Flowers|2008|102|2,040|6,149|Image Classification|Mean Per Class|[Project Page](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)|
+|CIFAR-10|2009|10|50,000|10,000|Image Classification|Accuracy|[Project Page](https://www.cs.toronto.edu/~kriz/cifar.html)|
+|CIFAR-100|2009|100|50,000|10,000|Image Classification|Accuracy|[Project Page](https://www.cs.toronto.edu/~kriz/cifar.html)|
+|ImageNet-1k|2009|1000|1,281,167|50,000|Image Classification|Accuracy|[Project Page](https://www.image-net.org/)|
+|SUN397|2010|397|19,850|19,850|Image Classification|Accuracy|[Project Page](https://vision.princeton.edu/projects/2010/SUN/)|
+|SVHN|2011|10|73,257|26,032|Image Classification|Accuracy|[Project Page](http://ufldl.stanford.edu/housenumbers/)|
+|STL-10|2011|10|1,000|8,000|Image Classification|Accuracy|[Project Page](https://cs.stanford.edu/~acoates/stl10/)|
+|GTSRB|2011|43|26,640|12,630|Image Classification|Accuracy|[Project Page](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)|
+|KITTI Distance|2012|4|6,770|711|Image Classification|Accuracy|[Project Page](https://github.com/harshilpatel312/KITTI-distance-estimation)|
+|IIIT5k|2012|36|2,000|3,000|Image Classification|Accuracy|[Project Page](https://cvit.iiit.ac.in/research/projects/cvit-projects/the-iiit-5k-word-dataset)|
+|Oxford-IIIT PETS|2012|37|3,680|3,669|Image Classification|Mean Per Class|[Project Page](https://www.robots.ox.ac.uk/~vgg/data/pets/)|
+|Stanford Cars|2013|196|8,144|8,041|Image Classification|Accuracy|[Project Page](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)|
+|FGVC Aircraft|2013|100|6,667|3,333|Image Classification|Mean Per Class|[Project Page](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)|
+|Facial Emotion|2013|8|32,140|3,574|Image Classification|Accuracy|[Project Page](https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/data)|
+|Rendered SST2|2013|2|7,792|1,821|Image Classification|Accuracy|[Project Page](https://github.com/openai/CLIP/blob/main/data/rendered-sst2.md)|
+|Describable Textures|2014|47|3,760|1,880|Image Classification|Accuracy|[Project Page](https://www.robots.ox.ac.uk/~vgg/data/dtd/)|
+|Food-101|2014|101|75,750|25,250|Image Classification|Accuracy|[Project Page](https://www.kaggle.com/datasets/dansbecker/food-101)|
+|Birdsnap|2014|500|42,283|2,149|Image Classification|Accuracy|[Project Page](https://thomasberg.org/)|
+|RESISC45|2017|45|3,150|25,200|Image Classification|Accuracy|[Project Page](https://pan.baidu.com/s/1mifR6tU?_at_=1679281159364#list/path=%2F)|
+|CLEVR Counts|2017|8|2,000|500|Image Classification|Accuracy|[Project Page](https://cs.stanford.edu/people/jcjohns/clevr/)|
+|PatchCamelyon|2018|2|294,912|32,768|Image Classification|Accuracy|[Project Page](https://github.com/basveeling/pcam)|
+|EuroSAT|2019|10|10,000|5,000|Image Classification|Accuracy|[Project Page](https://github.com/phelber/eurosat)|
+|Hateful Memes|2020|2|8,500|500|Image Classification|ROC AUC|[Project Page](https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/)|
+|Country211|2021|211|43,200|21,100|Image Classification|Accuracy|[Project Page](https://github.com/openai/CLIP/blob/main/data/country211.md)|
+||||||||
+|Flickr30k|2014|-|31,783|-|Image-Text Retrieval|Recall|[Project Page](https://shannon.cs.illinois.edu/DenotationGraph/)
+|COCO Caption|2015|-|82,783|5,000|Image-Text Retrieval|Recall|[Project Page](https://github.com/tylin/coco-caption)
+||||||||
+|UCF101|2012|101|9,537|1,794|Action Recognition|Accuracy|[Project Page](https://www.crcv.ucf.edu/data/UCF101.php)|
+|Kinetics700|2019|700|494,801|31,669|Action Recognition|Mean (top1, top5)|[Project Page](https://www.deepmind.com/open-source/kinetics)|
+|RareAct|2020|122|7,607|-|Action Recognition|mWAP, mSAP|[Project Page](https://github.com/antoine77340/RareAct)|
+||||||||
+|COCO 2014 Detection|2014|80|83,000|41,000|Object Detection|Box mAP|[Project Page](https://www.kaggle.com/datasets/jeffaudi/coco-2014-dataset-for-yolov3)|
+|COCO 2017 Detection|2017|80|118,000|5,000|Object Detection|Box mAP|[Project Page](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset)|
+|LVIS|2019|1203|118,000|5,000|Object Detection|Box mAP|[Project Page](https://www.lvisdataset.org/)|
+|ODinW|2022|314|132,413|20,070|Object Detection|Box mAP|[Project Page](https://eval.ai/web/challenges/challenge-page/1839/overview)|
+||||||||
+|PASCAL VOC 2012|2012|20|1,464|1,449|Semantic Segmentation|mIoU|[Project Page](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)|
+|PASCAL Content|2014|459|4,998|5,105|Semantic Segmentation|mIoU|[Project Page](https://www.cs.stanford.edu/~roozbeh/pascal-context/)|
+|Cityscapes|2016|19|2,975|500|Semantic Segmentation|mIoU|[Project Page](https://www.cityscapes-dataset.com/)|
+|ADE20k|2017|150|25,574|2,000|Semantic Segmentation|mIoU|[Project Page](https://groups.csail.mit.edu/vision/datasets/ADE20K/)|
 
 ## Vision-Language Pre-training Methods
 
