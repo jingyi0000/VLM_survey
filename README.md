@@ -59,10 +59,10 @@ If you find our work useful in your research, please consider citing:
 |[LAION5B](https://arxiv.org/pdf/2210.08402.pdf)|2022|5B|Over 100 Languages|[Project](https://laion.ai/blog/laion-5b/)|
 |[WuKong](https://arxiv.org/pdf/2202.06767.pdf)|2022|100M|Chinese|[Project](https://wukong-dataset.github.io/wukong-dataset/)|
 ||||||
-|[CLIP](https://arxiv.org/pdf/2103.00020.pdf)|2021|400M|English|Non-Public|
-|[ALIGN](https://arxiv.org/pdf/2102.05918.pdf)|2021|1.8B|English|Non-Public|
-|[FILIP](https://arxiv.org/pdf/2111.07783.pdf)|2021|300M|English|Non-Public|
-|[WebLI](https://arxiv.org/pdf/2209.06794.pdf)|2022|12B|English|Non-Public|
+|[CLIP](https://arxiv.org/pdf/2103.00020.pdf)|2021|400M|English|-|
+|[ALIGN](https://arxiv.org/pdf/2102.05918.pdf)|2021|1.8B|English|-|
+|[FILIP](https://arxiv.org/pdf/2111.07783.pdf)|2021|300M|English|-|
+|[WebLI](https://arxiv.org/pdf/2209.06794.pdf)|2022|12B|English|-|
 
 
 
