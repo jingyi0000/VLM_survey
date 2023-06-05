@@ -68,52 +68,71 @@ If you find our work useful in your research, please consider citing:
 
 ### Datasets for VLM Evaluation
 
-| Dataset                                             |  Year  | Classes | Training | Testing | Evaluation Task |Evaluation Metric| Project|                                  
-|-----------------------------------------------------|:------:|:-------:|:--------:|:-------:|:----:|:------:|:-----------:|
-|MNIST|1998|10|60,000|10,000|Image Classification|Accuracy|[Project](http://yann.lecun.com/exdb/mnist/)|
-|Caltech-101|2004|102|3,060|6,085|Image Classification|Mean Per Class|[Project](https://data.caltech.edu/records/mzrjq-6wc02)|
-|PASCAL VOC 2007|2007|20|5,011|4,952|Image Classification|11-point mAP|[Project](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/)|
-|Oxford 102 Flowers|2008|102|2,040|6,149|Image Classification|Mean Per Class|[Project](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)|
-|CIFAR-10|2009|10|50,000|10,000|Image Classification|Accuracy|[Project](https://www.cs.toronto.edu/~kriz/cifar.html)|
-|CIFAR-100|2009|100|50,000|10,000|Image Classification|Accuracy|[Project](https://www.cs.toronto.edu/~kriz/cifar.html)|
-|ImageNet-1k|2009|1000|1,281,167|50,000|Image Classification|Accuracy|[Project](https://www.image-net.org/)|
-|SUN397|2010|397|19,850|19,850|Image Classification|Accuracy|[Project](https://vision.princeton.edu/projects/2010/SUN/)|
-|SVHN|2011|10|73,257|26,032|Image Classification|Accuracy|[Project](http://ufldl.stanford.edu/housenumbers/)|
-|STL-10|2011|10|1,000|8,000|Image Classification|Accuracy|[Project](https://cs.stanford.edu/~acoates/stl10/)|
-|GTSRB|2011|43|26,640|12,630|Image Classification|Accuracy|[Project](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)|
-|KITTI Distance|2012|4|6,770|711|Image Classification|Accuracy|[Project](https://github.com/harshilpatel312/KITTI-distance-estimation)|
-|IIIT5k|2012|36|2,000|3,000|Image Classification|Accuracy|[Project](https://cvit.iiit.ac.in/research/projects/cvit-projects/the-iiit-5k-word-dataset)|
-|Oxford-IIIT PETS|2012|37|3,680|3,669|Image Classification|Mean Per Class|[Project](https://www.robots.ox.ac.uk/~vgg/data/pets/)|
-|Stanford Cars|2013|196|8,144|8,041|Image Classification|Accuracy|[Project](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)|
-|FGVC Aircraft|2013|100|6,667|3,333|Image Classification|Mean Per Class|[Project](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)|
-|Facial Emotion|2013|8|32,140|3,574|Image Classification|Accuracy|[Project](https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/data)|
-|Rendered SST2|2013|2|7,792|1,821|Image Classification|Accuracy|[Project](https://github.com/openai/CLIP/blob/main/data/rendered-sst2.md)|
-|Describable Textures|2014|47|3,760|1,880|Image Classification|Accuracy|[Project](https://www.robots.ox.ac.uk/~vgg/data/dtd/)|
-|Food-101|2014|101|75,750|25,250|Image Classification|Accuracy|[Project](https://www.kaggle.com/datasets/dansbecker/food-101)|
-|Birdsnap|2014|500|42,283|2,149|Image Classification|Accuracy|[Project](https://thomasberg.org/)|
-|RESISC45|2017|45|3,150|25,200|Image Classification|Accuracy|[Project](https://pan.baidu.com/s/1mifR6tU?_at_=1679281159364#list/path=%2F)|
-|CLEVR Counts|2017|8|2,000|500|Image Classification|Accuracy|[Project](https://cs.stanford.edu/people/jcjohns/clevr/)|
-|PatchCamelyon|2018|2|294,912|32,768|Image Classification|Accuracy|[Project](https://github.com/basveeling/pcam)|
-|EuroSAT|2019|10|10,000|5,000|Image Classification|Accuracy|[Project](https://github.com/phelber/eurosat)|
-|Hateful Memes|2020|2|8,500|500|Image Classification|ROC AUC|[Project](https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/)|
-|Country211|2021|211|43,200|21,100|Image Classification|Accuracy|[Project](https://github.com/openai/CLIP/blob/main/data/country211.md)|
-||||||||
-|Flickr30k|2014|-|31,783|-|Image-Text Retrieval|Recall|[Project](https://shannon.cs.illinois.edu/DenotationGraph/)
-|COCO Caption|2015|-|82,783|5,000|Image-Text Retrieval|Recall|[Project](https://github.com/tylin/coco-caption)
-||||||||
-|UCF101|2012|101|9,537|1,794|Action Recognition|Accuracy|[Project](https://www.crcv.ucf.edu/data/UCF101.php)|
-|Kinetics700|2019|700|494,801|31,669|Action Recognition|Mean (top1, top5)|[Project](https://www.deepmind.com/open-source/kinetics)|
-|RareAct|2020|122|7,607|-|Action Recognition|mWAP, mSAP|[Project](https://github.com/antoine77340/RareAct)|
-||||||||
-|COCO 2014 Detection|2014|80|83,000|41,000|Object Detection|Box mAP|[Project](https://www.kaggle.com/datasets/jeffaudi/coco-2014-dataset-for-yolov3)|
-|COCO 2017 Detection|2017|80|118,000|5,000|Object Detection|Box mAP|[Project](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset)|
-|LVIS|2019|1203|118,000|5,000|Object Detection|Box mAP|[Project](https://www.lvisdataset.org/)|
-|ODinW|2022|314|132,413|20,070|Object Detection|Box mAP|[Project](https://eval.ai/web/challenges/challenge-page/1839/overview)|
-||||||||
-|PASCAL VOC 2012|2012|20|1,464|1,449|Semantic Segmentation|mIoU|[Project](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)|
-|PASCAL Content|2014|459|4,998|5,105|Semantic Segmentation|mIoU|[Project](https://www.cs.stanford.edu/~roozbeh/pascal-context/)|
-|Cityscapes|2016|19|2,975|500|Semantic Segmentation|mIoU|[Project](https://www.cityscapes-dataset.com/)|
-|ADE20k|2017|150|25,574|2,000|Semantic Segmentation|mIoU|[Project](https://groups.csail.mit.edu/vision/datasets/ADE20K/)|
+#### Image Classification
+
+| Dataset                                             |  Year  | Classes | Training | Testing |Evaluation Metric| Project|                                  
+|-----------------------------------------------------|:------:|:-------:|:--------:|:-------:|:------:|:-----------:|
+|MNIST|1998|10|60,000|10,000|Accuracy|[Project](http://yann.lecun.com/exdb/mnist/)|
+|Caltech-101|2004|102|3,060|6,085|Mean Per Class|[Project](https://data.caltech.edu/records/mzrjq-6wc02)|
+|PASCAL VOC 2007|2007|20|5,011|4,952|11-point mAP|[Project](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/)|
+|Oxford 102 Flowers|2008|102|2,040|6,149|Mean Per Class|[Project](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)|
+|CIFAR-10|2009|10|50,000|10,000|Accuracy|[Project](https://www.cs.toronto.edu/~kriz/cifar.html)|
+|CIFAR-100|2009|100|50,000|10,000|Accuracy|[Project](https://www.cs.toronto.edu/~kriz/cifar.html)|
+|ImageNet-1k|2009|1000|1,281,167|50,000|Accuracy|[Project](https://www.image-net.org/)|
+|SUN397|2010|397|19,850|19,850|Accuracy|[Project](https://vision.princeton.edu/projects/2010/SUN/)|
+|SVHN|2011|10|73,257|26,032|Accuracy|[Project](http://ufldl.stanford.edu/housenumbers/)|
+|STL-10|2011|10|1,000|8,000|Accuracy|[Project](https://cs.stanford.edu/~acoates/stl10/)|
+|GTSRB|2011|43|26,640|12,630|Accuracy|[Project](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)|
+|KITTI Distance|2012|4|6,770|711|Accuracy|[Project](https://github.com/harshilpatel312/KITTI-distance-estimation)|
+|IIIT5k|2012|36|2,000|3,000|Accuracy|[Project](https://cvit.iiit.ac.in/research/projects/cvit-projects/the-iiit-5k-word-dataset)|
+|Oxford-IIIT PETS|2012|37|3,680|3,669|Mean Per Class|[Project](https://www.robots.ox.ac.uk/~vgg/data/pets/)|
+|Stanford Cars|2013|196|8,144|8,041|Accuracy|[Project](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)|
+|FGVC Aircraft|2013|100|6,667|3,333|Mean Per Class|[Project](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)|
+|Facial Emotion|2013|8|32,140|3,574|Accuracy|[Project](https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/data)|
+|Rendered SST2|2013|2|7,792|1,821|Accuracy|[Project](https://github.com/openai/CLIP/blob/main/data/rendered-sst2.md)|
+|Describable Textures|2014|47|3,760|1,880|Accuracy|[Project](https://www.robots.ox.ac.uk/~vgg/data/dtd/)|
+|Food-101|2014|101|75,750|25,250|Accuracy|[Project](https://www.kaggle.com/datasets/dansbecker/food-101)|
+|Birdsnap|2014|500|42,283|2,149|Accuracy|[Project](https://thomasberg.org/)|
+|RESISC45|2017|45|3,150|25,200|Accuracy|[Project](https://pan.baidu.com/s/1mifR6tU?_at_=1679281159364#list/path=%2F)|
+|CLEVR Counts|2017|8|2,000|500|Accuracy|[Project](https://cs.stanford.edu/people/jcjohns/clevr/)|
+|PatchCamelyon|2018|2|294,912|32,768|Accuracy|[Project](https://github.com/basveeling/pcam)|
+|EuroSAT|2019|10|10,000|5,000|Accuracy|[Project](https://github.com/phelber/eurosat)|
+|Hateful Memes|2020|2|8,500|500|ROC AUC|[Project](https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/)|
+|Country211|2021|211|43,200|21,100|Accuracy|[Project](https://github.com/openai/CLIP/blob/main/data/country211.md)|
+
+#### Image-Text Retrieval
+
+| Dataset                                             |  Year  | Classes | Training | Testing |Evaluation Metric| Project|                                  
+|-----------------------------------------------------|:------:|:-------:|:--------:|:-------:|:------:|:-----------:|
+|Flickr30k|2014|-|31,783|-|Recall|[Project](https://shannon.cs.illinois.edu/DenotationGraph/)
+|COCO Caption|2015|-|82,783|5,000|Recall|[Project](https://github.com/tylin/coco-caption)
+
+
+#### Action Recognition
+
+| Dataset                                             |  Year  | Classes | Training | Testing |Evaluation Metric| Project|                                  
+|-----------------------------------------------------|:------:|:-------:|:--------:|:-------:|:------:|:-----------:|
+|UCF101|2012|101|9,537|1,794|Accuracy|[Project](https://www.crcv.ucf.edu/data/UCF101.php)|
+|Kinetics700|2019|700|494,801|31,669|Mean (top1, top5)|[Project](https://www.deepmind.com/open-source/kinetics)|
+|RareAct|2020|122|7,607|-|mWAP, mSAP|[Project](https://github.com/antoine77340/RareAct)|
+
+#### Object Detection
+
+| Dataset                                             |  Year  | Classes | Training | Testing |Evaluation Metric| Project|                                  
+|-----------------------------------------------------|:------:|:-------:|:--------:|:-------:|:------:|:-----------:|
+|COCO 2014 Detection|2014|80|83,000|41,000|Box mAP|[Project](https://www.kaggle.com/datasets/jeffaudi/coco-2014-dataset-for-yolov3)|
+|COCO 2017 Detection|2017|80|118,000|5,000|Box mAP|[Project](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset)|
+|LVIS|2019|1203|118,000|5,000|Box mAP|[Project](https://www.lvisdataset.org/)|
+|ODinW|2022|314|132,413|20,070|Box mAP|[Project](https://eval.ai/web/challenges/challenge-page/1839/overview)|
+
+#### Semantic Segmentation
+
+| Dataset                                             |  Year  | Classes | Training | Testing |Evaluation Metric| Project|                                  
+|-----------------------------------------------------|:------:|:-------:|:--------:|:-------:|:------:|:-----------:|
+|PASCAL VOC 2012|2012|20|1,464|1,449|mIoU|[Project](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)|
+|PASCAL Content|2014|459|4,998|5,105|mIoU|[Project](https://www.cs.stanford.edu/~roozbeh/pascal-context/)|
+|Cityscapes|2016|19|2,975|500|mIoU|[Project](https://www.cityscapes-dataset.com/)|
+|ADE20k|2017|150|25,574|2,000|mIoU|[Project](https://groups.csail.mit.edu/vision/datasets/ADE20K/)|
 
 ## Vision-Language Pre-training Methods
 
