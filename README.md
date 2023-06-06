@@ -58,7 +58,6 @@ If you find our work useful in your research, please consider citing:
 |[LAION400M](https://arxiv.org/pdf/2111.02114v1.pdf)|2021|400M|English|[Project](https://laion.ai/blog/laion-400-open-dataset/)|
 |[LAION5B](https://arxiv.org/pdf/2210.08402.pdf)|2022|5B|Over 100 Languages|[Project](https://laion.ai/blog/laion-5b/)|
 |[WuKong](https://arxiv.org/pdf/2202.06767.pdf)|2022|100M|Chinese|[Project](https://wukong-dataset.github.io/wukong-dataset/)|
-||||||
 |[CLIP](https://arxiv.org/pdf/2103.00020.pdf)|2021|400M|English|-|
 |[ALIGN](https://arxiv.org/pdf/2102.05918.pdf)|2021|1.8B|English|-|
 |[FILIP](https://arxiv.org/pdf/2111.07783.pdf)|2021|300M|English|-|
@@ -157,6 +156,16 @@ If you find our work useful in your research, please consider citing:
 18. K-LITE: Learning Transferable Visual Models with External Knowledge [[Paper](https://arxiv.org/abs/2204.09222)][[Code](https://github.com/microsoft/klite)]
 19. NLIP: Noise-robust Language-Image Pre-training [[Paper](https://arxiv.org/abs/2212.07086)]
 20. UniCLIP: Unified Framework for Contrastive Language-Image Pre-training [[Paper](https://arxiv.org/abs/2209.13430)]
+21. PaLI: A Jointly-Scaled Multilingual Language-Image Model [[Paper](https://arxiv.org/abs/2209.06794)][[Project](https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)]
+22. CLIPPO: Image-and-Language Understanding from Pixels Only [[Paper](https://arxiv.org/abs/2212.08045)][[Code](https://github.com/google-research/big_vision)]
+23. HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention [[Paper](https://arxiv.org/abs/2303.02995)][[Code](https://github.com/jeykigung/hiclip)]
+24. GroupViT: Semantic Segmentation Emerges from Text Supervision [[Paper](https://arxiv.org/abs/2202.11094)][[Code](https://github.com/NVlabs/GroupViT)]
+25. SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation [[Paper](https://arxiv.org/abs/2211.14813)][[Code](https://github.com/ArrowLuo/SegCLIP)]
+26. Perceptual Grouping in Contrastive Vision-Language Models (CLIPpy) [[Paper](https://arxiv.org/abs/2210.09996)][[Code](https://github.com/ArrowLuo/SegCLIP)]
+27. RegionClip: Region-based Language-Image Pretraining [[Paper](https://arxiv.org/abs/2112.09106)][[Code](https://github.com/microsoft/RegionCLIP)]
+28. Grounded Language-Image Pre-training (GLIP) [[Paper](https://arxiv.org/abs/2112.03857)][[Code](https://github.com/microsoft/GLIP)]
+29. Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone (FIBER) [[Paper](https://arxiv.org/abs/2206.07643)][[Code](https://github.com/microsoft/FIBER)]
+30. DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection [[Paper](https://arxiv.org/abs/2209.09407)]
 
 ### Pre-training with Generative Objective
 
