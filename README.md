@@ -139,40 +139,51 @@ If you find our work useful in your research, please consider citing:
 
 | Paper                                             |  Published in | Code/Project |                                  
 |---------------------------------------------------|:-------------:|:------------:|
-|[Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/pdf/2103.00020.pdf)|ICML 2021|[Code](https://github.com/openai/CLIP)|
-|[Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision (ALIGN)](https://arxiv.org/pdf/2102.05918.pdf)|ICML 2021|-|
-|[Data Efficient Language-Supervised Zero-Shot Recognition with Optimal Transport Distillation (OTTER)](https://github.com/facebookresearch/OTTER)|arXiv 2021|[Code](https://github.com/facebookresearch/OTTER)|
-|[Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm (DeCLIP)](https://arxiv.org/abs/2110.05208)|ICLR 2022|[Code](https://github.com/Sense-GVT/DeCLIP)|
-|[Contrastive Vision-Language Pre-training with Limited Resources (ZeroVL)](https://arxiv.org/abs/2112.09331)|ECCV 2022|[Code](https://github.com/zerovl/ZeroVL)|
-|[FILIP: Fine-grained Interactive Language-Image Pre-Training](https://arxiv.org/abs/2111.07783)|ICLR 2022|-|
-|[Unified Contrastive Learning in Image-Text-Label Space (UniCL)](https://arxiv.org/abs/2204.03610)|CVPR 2022|[Code](https://github.com/microsoft/UniCL)|
+|[CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)|ICML 2021|[Code](https://github.com/openai/CLIP)|
+|[ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/pdf/2102.05918.pdf)|ICML 2021|-|
+|[OTTER: Data Efficient Language-Supervised Zero-Shot Recognition with Optimal Transport Distillation](https://github.com/facebookresearch/OTTER)|arXiv 2021|[Code](https://github.com/facebookresearch/OTTER)|
 |[Florence: A New Foundation Model for Computer Vision](https://arxiv.org/abs/2111.11432)|arXiv 2021|-|
-|[SLIP: Self-supervision meets Language-Image Pre-training](https://arxiv.org/abs/2112.12750)|ECCV 2022|[Code](https://github.com/facebookresearch/SLIP)|
-|[PyramidCLIP: Hierarchical Feature Alignment for Vision-language Model Pretraining](https://arxiv.org/abs/2204.14095)|NeurIPS 2022|-|
-|[Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese](https://arxiv.org/abs/2211.01335)|arXiv 2022|[Code](https://github.com/OFA-Sys/Chinese-CLIP)|
-|[LiT: Zero-Shot Transfer with Locked-image text Tuning](https://arxiv.org/abs/2111.07991)|CVPR 2022|[Code](https://google-research.github.io/vision_transformer/lit/)|
-|[AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities](https://arxiv.org/abs/2211.06679)|arXiv 2022|[Code](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP)|
-|[FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/abs/2112.04482)|CVPR 2022|[Code](https://github.com/facebookresearch/multimodal/tree/main/examples/flava)|
-|[Large-scale Bilingual Language-Image Contrastive Learning (KELIP)](https://arxiv.org/abs/2203.14463)|ICLRW 2022|[Code](https://github.com/navervision/KELIP)|
-|[CoCa: Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/abs/2205.01917)|arXiv 2022|[Code](https://github.com/lucidrains/CoCa-pytorch)|
-|[Non-Contrastive Learning Meets Language-Image Pre-Training (nCLIP)](https://arxiv.org/abs/2210.09304)|CVPR 2023|[Code](https://github.com/shallowtoil/xclip)|
-|[K-LITE: Learning Transferable Visual Models with External Knowledge](https://arxiv.org/abs/2204.09222)|NeurIPS 2022|[Code](https://github.com/microsoft/klite)|
-|[NLIP: Noise-robust Language-Image Pre-training](https://arxiv.org/abs/2212.07086)|AAAI 2023|-|
-|[UniCLIP: Unified Framework for Contrastive Language-Image Pre-training](https://arxiv.org/abs/2209.13430)|NeurIPS 2022|-|
-|[PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794)|ICLR 2023|[Project](https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)|
-|[CLIPPO: Image-and-Language Understanding from Pixels Only](https://arxiv.org/abs/2212.08045)|CVPR 2023|[Code](https://github.com/google-research/big_vision)|
-|[HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention](https://arxiv.org/abs/2303.02995)|ICLR 2023|[Code](https://github.com/jeykigung/hiclip)|
-|[GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/abs/2202.11094)|CVPR 2022|[Code](https://github.com/NVlabs/GroupViT)|
-|[SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2211.14813)|arXiv 2022|[Code](https://github.com/ArrowLuo/SegCLIP)|
-|[Perceptual Grouping in Contrastive Vision-Language Models (CLIPpy)](https://arxiv.org/abs/2210.09996)|arXiv 2022|-|
 |[RegionClip: Region-based Language-Image Pretraining](https://arxiv.org/abs/2112.09106)|arXiv 2021|[Code](https://github.com/microsoft/RegionCLIP)|
-|[Grounded Language-Image Pre-training (GLIP)](https://arxiv.org/abs/2112.03857)|CVPR 2022|[Code](https://github.com/microsoft/GLIP)|
+|[DeCLIP: Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm](https://arxiv.org/abs/2110.05208)|ICLR 2022|[Code](https://github.com/Sense-GVT/DeCLIP)|
+|[FILIP: Fine-grained Interactive Language-Image Pre-Training](https://arxiv.org/abs/2111.07783)|ICLR 2022|-|
+|[KELIP: Large-scale Bilingual Language-Image Contrastive Learning](https://arxiv.org/abs/2203.14463)|ICLRW 2022|[Code](https://github.com/navervision/KELIP)|
+|[ZeroVL: Contrastive Vision-Language Pre-training with Limited Resources](https://arxiv.org/abs/2112.09331)|ECCV 2022|[Code](https://github.com/zerovl/ZeroVL)|
+|[SLIP: Self-supervision meets Language-Image Pre-training](https://arxiv.org/abs/2112.12750)|ECCV 2022|[Code](https://github.com/facebookresearch/SLIP)|
+|[UniCL: Unified Contrastive Learning in Image-Text-Label Space](https://arxiv.org/abs/2204.03610)|CVPR 2022|[Code](https://github.com/microsoft/UniCL)|
+|[LiT: Zero-Shot Transfer with Locked-image text Tuning](https://arxiv.org/abs/2111.07991)|CVPR 2022|[Code](https://google-research.github.io/vision_transformer/lit/)|
+|[GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/abs/2202.11094)|CVPR 2022|[Code](https://github.com/NVlabs/GroupViT)|
+|[PyramidCLIP: Hierarchical Feature Alignment for Vision-language Model Pretraining](https://arxiv.org/abs/2204.14095)|NeurIPS 2022|-|
+|[UniCLIP: Unified Framework for Contrastive Language-Image Pre-training](https://arxiv.org/abs/2209.13430)|NeurIPS 2022|-|
+|[K-LITE: Learning Transferable Visual Models with External Knowledge](https://arxiv.org/abs/2204.09222)|NeurIPS 2022|[Code](https://github.com/microsoft/klite)|
 |[Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone (FIBER)](https://arxiv.org/abs/2206.07643)|NeurIPS 2022|[Code](https://github.com/microsoft/FIBER)|
-|[DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection](https://arxiv.org/abs/2209.09407)|NeurIPS 2022|-|
+|[Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese](https://arxiv.org/abs/2211.01335)|arXiv 2022|[Code](https://github.com/OFA-Sys/Chinese-CLIP)|
+|[AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities](https://arxiv.org/abs/2211.06679)|arXiv 2022|[Code](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP)|
+|[SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2211.14813)|arXiv 2022|[Code](https://github.com/ArrowLuo/SegCLIP)|
+|[CLIPpy: Perceptual Grouping in Contrastive Vision-Language Models](https://arxiv.org/abs/2210.09996)|arXiv 2022|-|
+|[NLIP: Noise-robust Language-Image Pre-training](https://arxiv.org/abs/2212.07086)|AAAI 2023|-|
+|[PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794)|ICLR 2023|[Project](https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)|
+|[HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention](https://arxiv.org/abs/2303.02995)|ICLR 2023|[Code](https://github.com/jeykigung/hiclip)|
+|[CLIPPO: Image-and-Language Understanding from Pixels Only](https://arxiv.org/abs/2212.08045)|CVPR 2023|[Code](https://github.com/google-research/big_vision)|
+
+
+
+
 
 ### Pre-training with Generative Objective
 
+| Paper                                             |  Published in | Code/Project |                                  
+|---------------------------------------------------|:-------------:|:------------:|
+|[FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/abs/2112.04482)|CVPR 2022|[Code](https://github.com/facebookresearch/multimodal/tree/main/examples/flava)|
+|[CoCa: Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/abs/2205.01917)|arXiv 2022|[Code](https://github.com/lucidrains/CoCa-pytorch)|
+
+
 ### Pre-training with Alignment Objective
+
+| Paper                                             |  Published in | Code/Project |                                  
+|---------------------------------------------------|:-------------:|:------------:|
+|[GLIP: Grounded Language-Image Pre-training](https://arxiv.org/abs/2112.03857)|CVPR 2022|[Code](https://github.com/microsoft/GLIP)|
+|[DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection](https://arxiv.org/abs/2209.09407)|NeurIPS 2022|-|
+|[nCLIP: Non-Contrastive Learning Meets Language-Image Pre-Training](https://arxiv.org/abs/2210.09304)|CVPR 2023|[Code](https://github.com/shallowtoil/xclip)|
 
 ## Vision-Language Model Transfer Learning Methods
 
