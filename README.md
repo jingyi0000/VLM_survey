@@ -43,6 +43,8 @@ If you find our work useful in your research, please consider citing:
   - [Transfer with Feature Adapter](#transfer-with-feature-adapter)
   - [Transfer with Other Methods](#transfer-with-other-methods)
 - [Vision-Language Model Knowledge Distillation Methods](#vision-language-model-knowledge-distillation-methods)
+  - [Knowledge Distillation for Object Detection](#knowledge-distillation-for-object-detection)
+  - [Knowledge Distillation for Semantic Segmentation](#knowledge-distillation-for-semantic-segmentation)
 
 ## Datasets
 
@@ -256,3 +258,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ## Vision-Language Model Knowledge Distillation Methods
+
+### Knowledge Distillation for Object Detection
+| Paper                                             |  Published in | Code/Project |                                  
+|---------------------------------------------------|:-------------:|:------------:|
+|[ViLD: Open-vocabulary Object Detection via Vision and Language Knowledge Distillation](https://arxiv.org/abs/2104.13921)|ICLR 2022|[Code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)|
+|[DetPro: Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model](https://arxiv.org/abs/2203.14940)|CVPR 2022|[Code](https://github.com/dyabel/detpro)|
+|[XPM: Open-Vocabulary Instance Segmentation via Robust Cross-Modal Pseudo-Labeling](https://arxiv.org/abs/2111.12698)|CVPR 2022|[Code](https://github.com/hbdat/cvpr22_cross_modal_pseudo_labeling)|
+|[Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection](https://arxiv.org/abs/2207.03482)|NeurIPS 2022|[Code](https://github.com/hanoonaR/object-centric-ovd)|
+|[PromptDet: Towards Open-vocabulary Detection using Uncurated Images](https://arxiv.org/abs/2203.16513)|ECCV 2022|[Code](https://github.com/fcjian/PromptDet)|
+|[PB-OVD: Open Vocabulary Object Detection with Pseudo Bounding-Box Labels](https://arxiv.org/abs/2111.09452)|ECCV 2022|[Code](https://github.com/salesforce/PB-OVD)|
+|[OV-DETR: Open-Vocabulary DETR with Conditional Matching](https://arxiv.org/abs/2203.11876)|ECCV 2022|[Code](https://github.com/yuhangzang/OV-DETR)|
+|[Detic: Detecting Twenty-thousand Classes using Image-level Supervision](https://arxiv.org/abs/2201.02605)|ECCV 2022|[Code](https://github.com/facebookresearch/Detic)|
+|[OWL-ViT: Simple Open-Vocabulary Object Detection with Vision Transformers](https://arxiv.org/abs/2205.06230)|ECCV 2022|[Code](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)|
+|[VL-PLM: Exploiting Unlabeled Data with Vision and Language Models for Object Detection](https://arxiv.org/abs/2207.08954)|ECCV 2022|[Code](https://github.com/xiaofeng94/VL-PLM)|
+|[ZSD-YOLO: Zero-shot Object Detection Through Vision-Language Embedding Alignment](https://arxiv.org/abs/2109.12066)|arXiv 2022|[Code](https://github.com/Johnathan-Xie/ZSD-YOLO)|
+|[HierKD: Open-Vocabulary One-Stage Detection with Hierarchical Visual-Language Knowledge Distillation](https://arxiv.org/abs/2203.10593)|arXiv 2022|[Code](https://github.com/mengqiDyangge/HierKD)|
+|[CondHead: Learning to Detect and Segment for Open Vocabulary Object Detection](https://arxiv.org/abs/2212.12130)|CVPR 2023|-|
+|[VLDet: Learning Object-Language Alignments for Open-Vocabulary Object Detection](https://arxiv.org/abs/2211.14843)|ICLR 2023|[Code](https://github.com/clin1223/VLDet)|
+|[F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://arxiv.org/abs/2209.15639)|ICLR 2023|[Code](https://github.com/google-research/google-research/tree/master/fvlm)|
+
+### Knowledge Distillation for Semantic Segmentation
+
+
+
+
+
+
+
+
+
+
