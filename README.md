@@ -280,6 +280,20 @@ If you find our work useful in your research, please consider citing:
 
 ### Knowledge Distillation for Semantic Segmentation
 
+| Paper                                             |  Published in | Code/Project |                                  
+|---------------------------------------------------|:-------------:|:------------:|
+|[SSIW: Semantic Segmentation In-the-Wild Without Seeing Any Segmentation Examples](https://arxiv.org/abs/2112.03185)|arXiv 2021|-|
+|[ReCo: Retrieve and Co-segment for Zero-shot Transfer](https://arxiv.org/abs/2206.07045)|NeurIPS 2022|[Code](https://github.com/NoelShin/reco)|
+|[CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2203.02668)|CVPR 2022|[Code](https://github.com/CVI-SZU/CLIMS)|
+|[CLIPSeg: Image Segmentation Using Text and Image Prompts](https://arxiv.org/abs/2112.10003)|CVPR 2022|[Code](https://github.com/timojl/clipseg)|
+|[ZegFormer: Decoupling Zero-Shot Semantic Segmentation](https://arxiv.org/abs/2112.07910)|CVPR 2022|[Code](https://github.com/dingjiansw101/ZegFormer)|
+|[LSeg: Language-driven Semantic Segmentation](https://arxiv.org/abs/2201.03546)|ICLR 2022|[Code](https://github.com/isl-org/lang-seg)|
+|[ZSSeg: A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-language Model](https://arxiv.org/abs/2112.14757)|ECCV 2022|[Code](https://github.com/MendelXu/zsseg.baseline)|
+|[OpenSeg: Scaling Open-Vocabulary Image Segmentation with Image-Level Labels](https://arxiv.org/abs/2112.12143)|ECCV 2022|[Code](https://github.com/tensorflow/tpu/tree/641c1ac6e26ed788327b973582cbfa297d7d31e7/models/official/detection/projects/openseg)|
+|[Fusioner: Open-vocabulary Semantic Segmentation with Frozen Vision-Language Models](https://arxiv.org/abs/2210.15138)|BMVC 2022|[Code](https://github.com/chaofanma/Fusioner)|
+|[OVSeg: Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP](https://arxiv.org/abs/2210.04150)|CVPR 2023|[Code](https://github.com/facebookresearch/ov-seg)|
+|[ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation](https://arxiv.org/abs/2212.03588)|CVPR 2023|[Code](https://github.com/ZiqinZhou66/ZegCLIP)|
+|[CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2212.09506)|CVPR 2023|[Code](https://github.com/linyq2117/CLIP-ES)|
 
 
 
