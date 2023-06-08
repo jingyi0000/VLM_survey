@@ -12,6 +12,29 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 
 ## News
 
+#### VLM Pre-training Methods
+* [CVPR 2023] RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-training [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.pdf)]
+* [CVPR 2023] DeAR: Debiasing Vision-Language Models with Additive Residuals [[Paper](https://arxiv.org/abs/2303.10431)]
+
+#### VLM Transfer Learning Methods
+* [CVPR 2023] Visual-Language Prompt Tuning with Knowledge-guided Context Optimization [[Paper](https://arxiv.org/abs/2303.13283)][[Code](https://github.com/htyao89/KgCoOp)]
+* [CVPR 2023] Learning to Name Classes for Vision and Language Models [[Paper](https://arxiv.org/abs/2304.01830v1)]
+* [CVPR 2023] Semantic Prompt for Few-Shot Image Recognition [[Paper](https://arxiv.org/abs/2303.14123v1)]
+* [CVPR 2023] Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners [[Paper](https://arxiv.org/abs/2303.02151)][[Code](https://github.com/ZrrSkywalker/CaFo)]
+
+#### VLM Knowledge Distillation for Detection
+* [CVPR 2023] Aligning Bag of Regions for Open-Vocabulary Object Detection [[Paper](https://arxiv.org/abs/2302.13996)][[Code](https://github.com/wusize/ovdet)]
+* [CVPR 2023] Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers [[Paper](https://arxiv.org/abs/2305.07011v1)]
+* [CVPR 2023] Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection [[Paper](https://arxiv.org/abs/2303.05892)][[Code](https://github.com/LutingWang/OADP)]
+* [CVPR 2023] CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching [[Paper](https://arxiv.org/abs/2303.13076v1)][[Code](https://github.com/tgxs002/CORA)]
+* [CVPR 2023] DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment [[Paper](https://arxiv.org/abs/2304.04514v1)]
+* [CVPR 2023] Detecting Everything in the Open World: Towards Universal Object Detection [[Paper](https://arxiv.org/abs/2303.11749)][[Code](https://github.com/zhenyuw16/UniDetector)]
+* [CVPR 2023] CapDet: Unifying Dense Captioning and Open-World Detection Pretraining [[Paper](https://arxiv.org/abs/2303.02489)]
+
+#### VLM Knowledge Distillation for Segmentation
+* [CVPR 2023] FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation [[Paper](https://arxiv.org/abs/2303.17225v1)][[Code](https://freeseg.github.io/)]
+* [CVPR 2023] Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations [[Paper](https://arxiv.org/abs/2303.16891v1)][[Code](https://vibashan.github.io/ovis-web/)]
+
 ## Abstract
 
 Most visual recognition studies rely heavily on crowd-labelled data in deep neural networks (DNNs) training, and they usually train a DNN for each single visual recognition task, leading to a laborious and time-consuming visual recognition paradigm. To address the two challenges, Vision Language Models (VLMs) have been intensively investigated recently, which learns rich vision-language correlation from web-scale image-text pairs that are almost infinitely available on the Internet and enables zero-shot predictions on various visual recognition tasks with a single VLM. This paper provides a systematic review of visual language models for various visual recognition tasks, including: (1) the background that introduces the development of visual recognition paradigms; (2) the foundations of VLM that summarize the widely-adopted network architectures, pre-training objectives, and downstream tasks; (3) the widely adopted datasets in VLM pre-training and evaluations; (4) the review and categorization of existing VLM pre-training methods, VLM transfer learning methods, and VLM knowledge distillation methods; (5) the benchmarking, analysis and discussion of the reviewed methods; (6) several research challenges and potential research directions that could be pursued in the future VLM studies for visual recognition.
