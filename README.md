@@ -15,12 +15,20 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 #### VLM Pre-training Methods
 * [CVPR 2023] RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-training [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.pdf)]
 * [CVPR 2023] DeAR: Debiasing Vision-Language Models with Additive Residuals [[Paper](https://arxiv.org/abs/2303.10431)]
+* [arXiv 2023] Improving CLIP Training with Language Rewrites [[Paper](https://arxiv.org/abs/2305.20088)][[Code](https://github.com/LijieFan/LaCLIP)]
+* [arXiv 2023] Too Large; Data Reduction for Vision-Language Pre-Training [[Paper](https://arxiv.org/abs/2305.20087)][[Code](https://github.com/showlab/data-centric.vlp)]
+
 
 #### VLM Transfer Learning Methods
 * [CVPR 2023] Visual-Language Prompt Tuning with Knowledge-guided Context Optimization [[Paper](https://arxiv.org/abs/2303.13283)][[Code](https://github.com/htyao89/KgCoOp)]
 * [CVPR 2023] Learning to Name Classes for Vision and Language Models [[Paper](https://arxiv.org/abs/2304.01830v1)]
 * [CVPR 2023] Semantic Prompt for Few-Shot Image Recognition [[Paper](https://arxiv.org/abs/2303.14123v1)]
 * [CVPR 2023] Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners [[Paper](https://arxiv.org/abs/2303.02151)][[Code](https://github.com/ZrrSkywalker/CaFo)]
+* [arXiv 2023] ProTeCt: Prompt Tuning for Hierarchical Consistency [[Paper](https://arxiv.org/abs/2306.02240)]
+* [arXiv 2023] Retrieval-Enhanced Visual Prompt Learning for Few-shot Classification [[Paper](https://arxiv.org/abs/2306.02243)]
+* [arXiv 2023] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning [[Paper](https://arxiv.org/abs/2306.01669)][[Code](http://github.com/BatsResearch/menghini-enhanceCLIPwithCLIP-code)]
+* [arXiv 2023] Fine-Grained Visual Prompting [[Paper](https://arxiv.org/abs/2306.04356)]
+* [ACL 2023] Deeply Coupled Cross-Modal Prompt Learning [[Paper](https://arxiv.org/abs/2305.17903)][[Code](https://github.com/GingL/CMPA)]
 
 #### VLM Knowledge Distillation for Detection
 * [CVPR 2023] Aligning Bag of Regions for Open-Vocabulary Object Detection [[Paper](https://arxiv.org/abs/2302.13996)][[Code](https://github.com/wusize/ovdet)]
@@ -30,10 +38,13 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 * [CVPR 2023] DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment [[Paper](https://arxiv.org/abs/2304.04514v1)]
 * [CVPR 2023] Detecting Everything in the Open World: Towards Universal Object Detection [[Paper](https://arxiv.org/abs/2303.11749)][[Code](https://github.com/zhenyuw16/UniDetector)]
 * [CVPR 2023] CapDet: Unifying Dense Captioning and Open-World Detection Pretraining [[Paper](https://arxiv.org/abs/2303.02489)]
+* [arXiv 2023] Contextual Object Detection with Multimodal Large Language Models [[Paper](https://arxiv.org/abs/2305.18279)][[Code](https://github.com/yuhangzang/ContextDET)]
 
 #### VLM Knowledge Distillation for Segmentation
 * [CVPR 2023] FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation [[Paper](https://arxiv.org/abs/2303.17225v1)][[Code](https://freeseg.github.io/)]
 * [CVPR 2023] Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations [[Paper](https://arxiv.org/abs/2303.16891v1)][[Code](https://vibashan.github.io/ovis-web/)]
+* [arXiv 2023] Exploring Open-Vocabulary Semantic Segmentation without Human Labels [[Paper](https://arxiv.org/abs/2306.00450)]
+* [arXiv 2023] OpenVIS: Open-vocabulary Video Instance Segmentation [[Paper](https://arxiv.org/abs/2305.16835)]
 
 ## Abstract
 
