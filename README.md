@@ -33,6 +33,7 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 * [arXiv 2023] SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More [[Paper](https://arxiv.org/abs/2304.09148)][[Code](http://tianrun-chen.github.io/SAM-Adaptor/)]
 * [arXiv 2023] Segment Anything in High Quality [[Paper](https://arxiv.org/abs/2306.01567)][[Code](https://github.com/SysCV/SAM-HQ)]
 * [arXiv 2023] Personalize Segment Anything Model with One Shot [[Paper](https://arxiv.org/abs/2305.03048)][[Code](https://github.com/ZrrSkywalker/Personalize-SAM)]
+* [arXiv 2023] Prompt Ensemble Self-training for Open-Vocabulary Domain Adaptation [[Paper](https://arxiv.org/abs/2306.16658)]
 
 #### VLM Knowledge Distillation for Detection
 * [CVPR 2023] Aligning Bag of Regions for Open-Vocabulary Object Detection [[Paper](https://arxiv.org/abs/2302.13996)][[Code](https://github.com/wusize/ovdet)]
