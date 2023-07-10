@@ -10,6 +10,8 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 <!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) -->
 <!-- [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) -->
 
+*Feel free to contact us or pull requests if you find any related papers that are not included here.*
+
 ## News
 
 #### VLM Pre-training Methods
