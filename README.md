@@ -13,6 +13,7 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 *Feel free to contact us or pull requests if you find any related papers that are not included here.*
 
 ## News
+Last update on 2023/7/12
 
 #### VLM Pre-training Methods
 * [CVPR 2023] RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-training [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.pdf)]
@@ -20,6 +21,8 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 * [arXiv 2023] Improving CLIP Training with Language Rewrites [[Paper](https://arxiv.org/abs/2305.20088)][[Code](https://github.com/LijieFan/LaCLIP)]
 * [arXiv 2023] Too Large; Data Reduction for Vision-Language Pre-Training [[Paper](https://arxiv.org/abs/2305.20087)][[Code](https://github.com/showlab/data-centric.vlp)]
 * [arXiv 2023] Segment Anything [[Paper](https://arxiv.org/abs/2304.02643)][[Code](https://github.com/facebookresearch/segment-anything)]
+* [arXiv 2023] Semantic-SAM: Segment and Recognize Anything at Any Granularity [[Paper](https://arxiv.org/pdf/2307.04767.pdf)][[Code](https://github.com/UX-Decoder/Semantic-SAM)]
+* [arXiv 2023] Segment Everything Everywhere All at Once [[Paper](https://arxiv.org/pdf/2304.06718.pdf)][[Code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
 
 
 #### VLM Transfer Learning Methods
