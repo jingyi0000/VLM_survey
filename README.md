@@ -18,6 +18,7 @@ Last update on 2023/7/17
 #### VLM Pre-training Methods
 * [CVPR 2023] RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-training [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.pdf)]
 * [CVPR 2023] DeAR: Debiasing Vision-Language Models with Additive Residuals [[Paper](https://arxiv.org/abs/2303.10431)]
+* [CVPR 2023] Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training [[Paper](https://arxiv.org/abs/2301.02280)][[Code](https://github.com/facebookresearch/diht)]
 * [arXiv 2023] Improving CLIP Training with Language Rewrites [[Paper](https://arxiv.org/abs/2305.20088)][[Code](https://github.com/LijieFan/LaCLIP)]
 * [arXiv 2023] Too Large; Data Reduction for Vision-Language Pre-Training [[Paper](https://arxiv.org/abs/2305.20087)][[Code](https://github.com/showlab/data-centric.vlp)]
 * [arXiv 2023] Segment Anything [[Paper](https://arxiv.org/abs/2304.02643)][[Code](https://github.com/facebookresearch/segment-anything)]
@@ -30,6 +31,7 @@ Last update on 2023/7/17
 * [CVPR 2023] Learning to Name Classes for Vision and Language Models [[Paper](https://arxiv.org/abs/2304.01830v1)]
 * [CVPR 2023] Semantic Prompt for Few-Shot Image Recognition [[Paper](https://arxiv.org/abs/2303.14123v1)]
 * [CVPR 2023] Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners [[Paper](https://arxiv.org/abs/2303.02151)][[Code](https://github.com/ZrrSkywalker/CaFo)]
+* [CVPR 2023] Task Residual for Tuning Vision-Language Models [[Paper](https://arxiv.org/abs/2211.10277)][[Code](https://github.com/geekyutao/TaskRes)]
 * [arXiv 2023] ProTeCt: Prompt Tuning for Hierarchical Consistency [[Paper](https://arxiv.org/abs/2306.02240)]
 * [arXiv 2023] Retrieval-Enhanced Visual Prompt Learning for Few-shot Classification [[Paper](https://arxiv.org/abs/2306.02243)]
 * [arXiv 2023] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning [[Paper](https://arxiv.org/abs/2306.01669)][[Code](http://github.com/BatsResearch/menghini-enhanceCLIPwithCLIP-code)]
@@ -221,7 +223,9 @@ If you find our work useful in your research, please consider citing:
 |[CLIPPO: Image-and-Language Understanding from Pixels Only](https://arxiv.org/abs/2212.08045)|CVPR 2023|[Code](https://github.com/google-research/big_vision)|
 |[RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-training](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.pdf)|CVPR 2023|-|
 |[DeAR: Debiasing Vision-Language Models with Additive Residuals](https://arxiv.org/abs/2303.10431)|CVPR 2023|-|
+|[Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training](https://arxiv.org/abs/2301.02280)|CVPR 2023|[Code](https://github.com/facebookresearch/diht)|
 |[LaCLIP: Improving CLIP Training with Language Rewrites](https://arxiv.org/abs/2305.20088)|arXiv 2023|[Code](https://github.com/LijieFan/LaCLIP)|
+
 
 
 
@@ -325,6 +329,7 @@ If you find our work useful in your research, please consider citing:
 |[CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention](https://arxiv.org/abs/2209.14169)|AAAI 2023|[Code](https://github.com/ziyuguo99/calip)|
 |[Semantic Prompt for Few-Shot Image Recognition](https://arxiv.org/abs/2303.14123v1)|CVPR 2023|-|
 |[Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners](https://arxiv.org/abs/2303.02151)|CVPR 2023|[Code](https://github.com/ZrrSkywalker/CaFo)|
+|[Task Residual for Tuning Vision-Language Models](https://arxiv.org/abs/2211.10277)|CVPR 2023|[Code](https://github.com/geekyutao/TaskRes)|
 |[Deeply Coupled Cross-Modal Prompt Learning](https://arxiv.org/abs/2305.17903)|ACL 2023|[Code](https://github.com/GingL/CMPA)|
 |[Prompt Ensemble Self-training for Open-Vocabulary Domain Adaptation](https://arxiv.org/abs/2306.16658)|arXiv 2023|-|
 |[Personalize Segment Anything Model with One Shot](https://arxiv.org/abs/2305.03048)|arXiv 2023|[Code](https://github.com/ZrrSkywalker/Personalize-SAM)|
