@@ -219,6 +219,9 @@ If you find our work useful in your research, please consider citing:
 |[PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794)|ICLR 2023|[Project](https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)|
 |[HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention](https://arxiv.org/abs/2303.02995)|ICLR 2023|[Code](https://github.com/jeykigung/hiclip)|
 |[CLIPPO: Image-and-Language Understanding from Pixels Only](https://arxiv.org/abs/2212.08045)|CVPR 2023|[Code](https://github.com/google-research/big_vision)|
+|[RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-training](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.pdf)|CVPR 2023|-|
+
+
 
 
 
