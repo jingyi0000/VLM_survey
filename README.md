@@ -13,7 +13,7 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 *Feel free to contact us or pull requests if you find any related papers that are not included here.*
 
 ## News
-Last update on 2023/7/12
+Last update on 2023/7/17
 
 #### VLM Pre-training Methods
 * [CVPR 2023] RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-training [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.pdf)]
@@ -220,9 +220,8 @@ If you find our work useful in your research, please consider citing:
 |[HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention](https://arxiv.org/abs/2303.02995)|ICLR 2023|[Code](https://github.com/jeykigung/hiclip)|
 |[CLIPPO: Image-and-Language Understanding from Pixels Only](https://arxiv.org/abs/2212.08045)|CVPR 2023|[Code](https://github.com/google-research/big_vision)|
 |[RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-training](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.pdf)|CVPR 2023|-|
-
-
-
+|[DeAR: Debiasing Vision-Language Models with Additive Residuals](https://arxiv.org/abs/2303.10431)|CVPR 2023|-|
+|[LaCLIP: Improving CLIP Training with Language Rewrites](https://arxiv.org/abs/2305.20088)|arXiv 2023|[Code](https://github.com/LijieFan/LaCLIP)|
 
 
 
@@ -233,6 +232,12 @@ If you find our work useful in your research, please consider citing:
 |---------------------------------------------------|:-------------:|:------------:|
 |[FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/abs/2112.04482)|CVPR 2022|[Code](https://github.com/facebookresearch/multimodal/tree/main/examples/flava)|
 |[CoCa: Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/abs/2205.01917)|arXiv 2022|[Code](https://github.com/lucidrains/CoCa-pytorch)|
+|[Too Large; Data Reduction for Vision-Language Pre-Training](https://arxiv.org/abs/2305.20087)|arXiv 2023|[Code](https://github.com/showlab/data-centric.vlp)|
+|[SAM: Segment Anything](https://arxiv.org/abs/2304.02643)|arXiv 2023|[Code](https://github.com/facebookresearch/segment-anything)|
+|[SEEM: Segment Everything Everywhere All at Once](https://arxiv.org/pdf/2304.06718.pdf)|arXiv 2023|[Code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)|
+|[Semantic-SAM: Segment and Recognize Anything at Any Granularity](https://arxiv.org/pdf/2307.04767.pdf)|arXiv 2023|[Code](https://github.com/UX-Decoder/Semantic-SAM)|
+
+
 
 
 ### Pre-training with Alignment Objective
@@ -269,12 +274,23 @@ If you find our work useful in your research, please consider citing:
 |[PLOT: Prompt Learning with Optimal Transport for Vision-Language Models](https://arxiv.org/abs/2210.01253)|ICLR 2023|[Code](https://github.com/CHENGY12/PLOT)|
 |[LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition](https://arxiv.org/abs/2305.04536)|arXiv 2023|[Code](https://github.com/richard-peng-xia/LMPT)|
 |[Texts as Images in Prompt Tuning for Multi-Label Image Recognition](https://arxiv.org/abs/2211.12739)|CVPR 2023|[code](https://github.com/guozix/TaI-DPT)
+|[Visual-Language Prompt Tuning with Knowledge-guided Context Optimization](https://arxiv.org/abs/2303.13283)|CVPR 2023|[Code](https://github.com/htyao89/KgCoOp)|
+|[Learning to Name Classes for Vision and Language Models](https://arxiv.org/abs/2304.01830v1)|CVPR 2023|-|
+|[ProTeCt: Prompt Tuning for Hierarchical Consistency](https://arxiv.org/abs/2306.02240)|arXiv 2023|-|
+|[Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning](https://arxiv.org/abs/2306.01669)|arXiv 2023|[Code](http://github.com/BatsResearch/menghini-enhanceCLIPwithCLIP-code)|
+
+
+
+
+
 
 #### Transfer with Visual Prompt Tuning
 
 | Paper                                             |  Published in | Code/Project |                                  
 |---------------------------------------------------|:-------------:|:------------:|
 |[Exploring Visual Prompts for Adapting Large-Scale Models](https://arxiv.org/abs/2203.17274)|arXiv 2022|[Code](https://github.com/hjbahng/visual_prompting)|
+|[Retrieval-Enhanced Visual Prompt Learning for Few-shot Classification](https://arxiv.org/abs/2306.02243)|arXiv 2023|-|
+|[Fine-Grained Visual Prompting](https://arxiv.org/abs/2306.04356)|arXiv 2023|-|
 
 #### Transfer with Text and Visual Prompt Tuning
 
@@ -295,6 +311,8 @@ If you find our work useful in your research, please consider citing:
 |[SuS-X: Training-Free Name-Only Transfer of Vision-Language Models](https://arxiv.org/abs/2211.16198)|arXiv 2022|[Code](https://github.com/vishaal27/SuS-X)|
 |[CLIPPR: Improving Zero-Shot Models with Label Distribution Priors](https://arxiv.org/abs/2212.00784)|arXiv 2022|[Code](https://github.com/jonkahana/CLIPPR)|
 |[SgVA-CLIP: Semantic-guided Visual Adapting of Vision-Language Models for Few-shot Image Classification](https://arxiv.org/abs/2211.16191)|arXiv 2022|-|
+|[SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More](https://arxiv.org/abs/2304.09148)|arXiv 2023|[Code](http://tianrun-chen.github.io/SAM-Adaptor/)|
+|[Segment Anything in High Quality](https://arxiv.org/abs/2306.01567)|arXiv 2023|[Code](https://github.com/SysCV/SAM-HQ)|
 
 ### Transfer with Other Methods
 
@@ -305,9 +323,11 @@ If you find our work useful in your research, please consider citing:
 |[MaskCLIP: Extract Free Dense Labels from CLIP](https://arxiv.org/abs/2112.01071)|ECCV 2022|[Code](https://github.com/chongzhou96/MaskCLIP)|
 |[MUST: Masked Unsupervised Self-training for Label-free Image Classification](https://arxiv.org/abs/2206.02967)|ICLR 2023| [Code](https://github.com/salesforce/MUST)|
 |[CALIP: Zero-Shot Enhancement of CLIP with Parameter-free Attention](https://arxiv.org/abs/2209.14169)|AAAI 2023|[Code](https://github.com/ziyuguo99/calip)|
-
-
-
+|[Semantic Prompt for Few-Shot Image Recognition](https://arxiv.org/abs/2303.14123v1)|CVPR 2023|-|
+|[Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners](https://arxiv.org/abs/2303.02151)|CVPR 2023|[Code](https://github.com/ZrrSkywalker/CaFo)|
+|[Deeply Coupled Cross-Modal Prompt Learning](https://arxiv.org/abs/2305.17903)|ACL 2023|[Code](https://github.com/GingL/CMPA)|
+|[Prompt Ensemble Self-training for Open-Vocabulary Domain Adaptation](https://arxiv.org/abs/2306.16658)|arXiv 2023|-|
+|[Personalize Segment Anything Model with One Shot](https://arxiv.org/abs/2305.03048)|arXiv 2023|[Code](https://github.com/ZrrSkywalker/Personalize-SAM)|
 
 
 ## Vision-Language Model Knowledge Distillation Methods
@@ -327,9 +347,19 @@ If you find our work useful in your research, please consider citing:
 |[VL-PLM: Exploiting Unlabeled Data with Vision and Language Models for Object Detection](https://arxiv.org/abs/2207.08954)|ECCV 2022|[Code](https://github.com/xiaofeng94/VL-PLM)|
 |[ZSD-YOLO: Zero-shot Object Detection Through Vision-Language Embedding Alignment](https://arxiv.org/abs/2109.12066)|arXiv 2022|[Code](https://github.com/Johnathan-Xie/ZSD-YOLO)|
 |[HierKD: Open-Vocabulary One-Stage Detection with Hierarchical Visual-Language Knowledge Distillation](https://arxiv.org/abs/2203.10593)|arXiv 2022|[Code](https://github.com/mengqiDyangge/HierKD)|
-|[CondHead: Learning to Detect and Segment for Open Vocabulary Object Detection](https://arxiv.org/abs/2212.12130)|CVPR 2023|-|
 |[VLDet: Learning Object-Language Alignments for Open-Vocabulary Object Detection](https://arxiv.org/abs/2211.14843)|ICLR 2023|[Code](https://github.com/clin1223/VLDet)|
 |[F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://arxiv.org/abs/2209.15639)|ICLR 2023|[Code](https://github.com/google-research/google-research/tree/master/fvlm)|
+|[CondHead: Learning to Detect and Segment for Open Vocabulary Object Detection](https://arxiv.org/abs/2212.12130)|CVPR 2023|-|
+|[Aligning Bag of Regions for Open-Vocabulary Object Detection](https://arxiv.org/abs/2302.13996)|CVPR 2023|[Code](https://github.com/wusize/ovdet)|
+|[Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers](https://arxiv.org/abs/2305.07011v1)|CVPR 2023|-|
+|[Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection](https://arxiv.org/abs/2303.05892)|CVPR 2023|[Code](https://github.com/LutingWang/OADP)|
+|[CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching](https://arxiv.org/abs/2303.13076v1)|CVPR 2023|[Code](https://github.com/tgxs002/CORA)|
+|[DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment](https://arxiv.org/abs/2304.04514v1)|CVPR 2023|-|
+|[Detecting Everything in the Open World: Towards Universal Object Detection](https://arxiv.org/abs/2303.11749)|CVPR 2023|[Code](https://github.com/zhenyuw16/UniDetector)|
+|[CapDet: Unifying Dense Captioning and Open-World Detection Pretraining](https://arxiv.org/abs/2303.02489)|CVPR 2023|-|
+|[Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279)|arXiv 2023|[Code](https://github.com/yuhangzang/ContextDET)|
+|[Building One-class Detector for Anything: Open-vocabulary Zero-shot OOD Detection Using Text-image Models](https://arxiv.org/abs/2305.17207)|arXiv 2023|[Code](https://github.com/gyhandy/One-Class-Anything)|
+
 
 ### Knowledge Distillation for Semantic Segmentation
 
@@ -347,6 +377,13 @@ If you find our work useful in your research, please consider citing:
 |[OVSeg: Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP](https://arxiv.org/abs/2210.04150)|CVPR 2023|[Code](https://github.com/facebookresearch/ov-seg)|
 |[ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation](https://arxiv.org/abs/2212.03588)|CVPR 2023|[Code](https://github.com/ZiqinZhou66/ZegCLIP)|
 |[CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2212.09506)|CVPR 2023|[Code](https://github.com/linyq2117/CLIP-ES)|
+|[FreeSeg: Unified, Universal and Open-Vocabulary Image Segmentation](https://arxiv.org/abs/2303.17225v1)|CVPR 2023|[Code](https://freeseg.github.io/)|
+|[Mask-free OVIS: Open-Vocabulary Instance Segmentation without Manual Mask Annotations](https://arxiv.org/abs/2303.16891v1)|CVPR 2023|[Code](https://vibashan.github.io/ovis-web/)|
+|[Exploring Open-Vocabulary Semantic Segmentation without Human Labels](https://arxiv.org/abs/2306.00450)|arXiv 2023|-|
+|[OpenVIS: Open-vocabulary Video Instance Segmentation](https://arxiv.org/abs/2305.16835)|arXiv 2023|-|
+|[Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2305.01275)|arXiv 2023|-|
+|[Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2305.05803)|arXiv 2023|[Code](https://github.com/cskyl/SAM_WSSS)|
+
 
 
 
