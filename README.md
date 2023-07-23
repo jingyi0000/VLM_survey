@@ -13,7 +13,7 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 *Feel free to contact us or pull requests if you find any related papers that are not included here.*
 
 ## News
-Last update on 2023/7/17
+Last update on 2023/7/23
 
 #### VLM Pre-training Methods
 * [CVPR 2023] RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-training [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.pdf)]
@@ -330,6 +330,7 @@ If you find our work useful in your research, please consider citing:
 |[Personalize Segment Anything Model with One Shot](https://arxiv.org/abs/2305.03048)|arXiv 2023|[Code](https://github.com/ZrrSkywalker/Personalize-SAM)|
 |[Chils: Zero-shot image classification with hierarchical label sets](https://proceedings.mlr.press/v202/novack23a/novack23a.pdf)|ICML 2023|[Code](https://github.com/acmi-lab/CHILS)|
 |[Improving Zero-shot Generalization and Robustness of Multi-modal Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Ge_Improving_Zero-Shot_Generalization_and_Robustness_of_Multi-Modal_Models_CVPR_2023_paper.pdf)|CVPR 2023|[Code](https://github.com/gyhandy/Hierarchy-CLIP)|
+|[Exploiting Category Names for Few-Shot Classification with Vision-Language Models](https://openreview.net/pdf?id=w25Q9Ttjrs)|ICLR W 2023|-|
 
 
 ## Vision-Language Model Knowledge Distillation Methods
