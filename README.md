@@ -13,7 +13,7 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 *Feel free to contact us or pull requests if you find any related papers that are not included here.*
 
 ## News
-Last update on 2023/7/17
+Last update on 2023/7/23
 
 #### VLM Pre-training Methods
 * [CVPR 2023] RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-training [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.pdf)]
@@ -271,7 +271,6 @@ If you find our work useful in your research, please consider citing:
 |[CuPL: What does a platypus look like? Generating customized prompts for zero-shot image classification](https://arxiv.org/abs/2209.03320)|arXiv 2022|[Code](https://github.com/sarahpratt/CuPL)|
 |[UPL: Unsupervised Prompt Learning for Vision-Language Models](https://arxiv.org/abs/2204.03649)|arXiv 2022|[Code](https://github.com/tonyhuang2022/UPL)|
 |[ProGrad: Prompt-aligned Gradient for Prompt Tuning](https://arxiv.org/abs/2205.14865)|arXiv 2022|[Code](https://github.com/BeierZhu/Prompt-align)|
-|[TaI-DPT: Texts as Images in Prompt Tuning for Multi-Label Image Recognition](https://arxiv.org/abs/2211.12739)|arXiv 2022|[Code](https://github.com/guozix/TaI-DPT)|
 |[SoftCPT: Prompt Tuning with Soft Context Sharing for Vision-Language Models](https://arxiv.org/abs/2208.13474)|arXiv 2022|[Code](https://github.com/kding1225/softcpt)|
 |[SubPT: Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2211.02219)|TCSVT 2023|[Code](https://github.com/machengcheng2016/Subspace-Prompt-Learning)|
 |[LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models](https://arxiv.org/abs/2210.01115)|CVPR 2023|[Code](https://www.adrianbulat.com/lasp)|
@@ -282,10 +281,6 @@ If you find our work useful in your research, please consider citing:
 |[Learning to Name Classes for Vision and Language Models](https://arxiv.org/abs/2304.01830v1)|CVPR 2023|-|
 |[ProTeCt: Prompt Tuning for Hierarchical Consistency](https://arxiv.org/abs/2306.02240)|arXiv 2023|-|
 |[Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning](https://arxiv.org/abs/2306.01669)|arXiv 2023|[Code](http://github.com/BatsResearch/menghini-enhanceCLIPwithCLIP-code)|
-
-
-
-
 
 
 #### Transfer with Visual Prompt Tuning
@@ -312,7 +307,7 @@ If you find our work useful in your research, please consider citing:
 |[Tip-Adapte: Training-free Adaption of CLIP for Few-shot Classification](https://arxiv.org/abs/2207.09519)|ECCV 2022|[Code](https://github.com/gaopengcuhk/Tip-Adapter)|
 |[SVL-Adapter: Self-Supervised Adapter for Vision-Language Pretrained Models](https://arxiv.org/abs/2210.03794)|BMVC 2022|[Code](https://github.com/omipan/svl_adapter)|
 |[Clip-Adapter: Better Vision-Language Models with Feature Adapters](https://arxiv.org/abs/2110.04544)|arXiv 2021|[Code](https://github.com/gaopengcuhk/CLIP-Adapter)|
-|[SuS-X: Training-Free Name-Only Transfer of Vision-Language Models](https://arxiv.org/abs/2211.16198)|arXiv 2022|[Code](https://github.com/vishaal27/SuS-X)|
+|[SuS-X: Training-Free Name-Only Transfer of Vision-Language Models](https://arxiv.org/abs/2211.16198)|ICCV 2023|[Code](https://github.com/vishaal27/SuS-X)|
 |[CLIPPR: Improving Zero-Shot Models with Label Distribution Priors](https://arxiv.org/abs/2212.00784)|arXiv 2022|[Code](https://github.com/jonkahana/CLIPPR)|
 |[SgVA-CLIP: Semantic-guided Visual Adapting of Vision-Language Models for Few-shot Image Classification](https://arxiv.org/abs/2211.16191)|arXiv 2022|-|
 |[SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More](https://arxiv.org/abs/2304.09148)|arXiv 2023|[Code](http://tianrun-chen.github.io/SAM-Adaptor/)|
@@ -333,6 +328,9 @@ If you find our work useful in your research, please consider citing:
 |[Deeply Coupled Cross-Modal Prompt Learning](https://arxiv.org/abs/2305.17903)|ACL 2023|[Code](https://github.com/GingL/CMPA)|
 |[Prompt Ensemble Self-training for Open-Vocabulary Domain Adaptation](https://arxiv.org/abs/2306.16658)|arXiv 2023|-|
 |[Personalize Segment Anything Model with One Shot](https://arxiv.org/abs/2305.03048)|arXiv 2023|[Code](https://github.com/ZrrSkywalker/Personalize-SAM)|
+|[Chils: Zero-shot image classification with hierarchical label sets](https://proceedings.mlr.press/v202/novack23a/novack23a.pdf)|ICML 2023|[Code](https://github.com/acmi-lab/CHILS)|
+|[Improving Zero-shot Generalization and Robustness of Multi-modal Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Ge_Improving_Zero-Shot_Generalization_and_Robustness_of_Multi-Modal_Models_CVPR_2023_paper.pdf)|CVPR 2023|[Code](https://github.com/gyhandy/Hierarchy-CLIP)|
+|[Exploiting Category Names for Few-Shot Classification with Vision-Language Models](https://openreview.net/pdf?id=w25Q9Ttjrs)|ICLR W 2023|-|
 
 
 ## Vision-Language Model Knowledge Distillation Methods
