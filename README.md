@@ -216,7 +216,7 @@ If you find our work useful in your research, please consider citing:
 |[Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese](https://arxiv.org/abs/2211.01335)|arXiv 2022|[Code](https://github.com/OFA-Sys/Chinese-CLIP)|
 |[AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities](https://arxiv.org/abs/2211.06679)|arXiv 2022|[Code](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP)|
 |[SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2211.14813)|arXiv 2022|[Code](https://github.com/ArrowLuo/SegCLIP)|
-|[CLIPpy: Perceptual Grouping in Contrastive Vision-Language Models](https://arxiv.org/abs/2210.09996)|arXiv 2022|-|
+|[CLIPpy: Perceptual Grouping in Contrastive Vision-Language Models](https://arxiv.org/abs/2210.09996)|ICCV 2023|-|
 |[NLIP: Noise-robust Language-Image Pre-training](https://arxiv.org/abs/2212.07086)|AAAI 2023|-|
 |[PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794)|ICLR 2023|[Project](https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)|
 |[HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention](https://arxiv.org/abs/2303.02995)|ICLR 2023|[Code](https://github.com/jeykigung/hiclip)|
