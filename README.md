@@ -16,6 +16,7 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 Last update on 2023/8/21
 
 #### VLM Pre-training Methods
+* [ICCV 2023] ALIP: Adaptive Language-Image Pre-training with Synthetic Caption [[Paper](https://arxiv.org/pdf/2308.08428.pdf)][[Code](https://github.com/deepglint/ALIP)]
 
 
 
