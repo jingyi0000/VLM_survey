@@ -23,6 +23,7 @@ Last update on 2023/8/21
 * [ICCV 2023] Regularized Mask Tuning: Uncovering Hidden Knowledge in Pre-trained Vision-Language Models [[Paper](https://arxiv.org/pdf/2307.15049v1.pdf)][[Code](https://wuw2019.github.io/RMT/)]
 * [ICCV 2023] Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[Paper](https://arxiv.org/pdf/2307.11978v1.pdf)][[Code](https://github.com/CEWu/PTNL)]
 * [ICCV 2023] PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization [[Paper](https://arxiv.org/pdf/2307.15199v1.pdf)][[Code](https://promptstyler.github.io/)]
+* [ICCV 2023] Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models [[Paper](https://arxiv.org/pdf/2303.06571.pdf)]
 
 
 #### VLM Knowledge Distillation for Detection
