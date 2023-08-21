@@ -25,13 +25,18 @@ Last update on 2023/8/21
 * [ICCV 2023] Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[Paper](https://arxiv.org/pdf/2307.11978v1.pdf)][[Code](https://github.com/CEWu/PTNL)]
 * [ICCV 2023] PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization [[Paper](https://arxiv.org/pdf/2307.15199v1.pdf)][[Code](https://promptstyler.github.io/)]
 * [ICCV 2023] Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models [[Paper](https://arxiv.org/pdf/2303.06571.pdf)]
+* [ICCV 2023] PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation [[Paper](https://assets.amazon.science/ff/08/64f27eb54b82a0c59c95dc138af4/padclip-pseudo-labeling-with-adaptive-debiasing-in-clip.pdf)] 
+* [ICCVW 2023] AD-CLIP: Adapting Domains in Prompt Space Using CLIP [[Paper](https://arxiv.org/pdf/2308.05659.pdf)]
 
 
 #### VLM Knowledge Distillation for Detection
+* [arXiv 2023] Improving Pseudo Labels for Open-Vocabulary Object Detection [[Paper](https://arxiv.org/pdf/2308.06412.pdf)]
 
 
 #### VLM Knowledge Distillation for Segmentation
 * [ICCV 2023] SegPrompt: Boosting Open-World Segmentation via Category-level Prompt Learning [[Paper](https://arxiv.org/pdf/2308.06531v1.pdf)][[Code](https://github.com/aim-uofa/SegPrompt)]
+* [arXiv 2023] ICPC: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation [[Paper](https://arxiv.org/pdf/2308.07078.pdf)]
+* [arXiv 2023] Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP [[Paper](https://arxiv.org/pdf/2308.02487.pdf)][[Code](https://github.com/bytedance/fc-clip)]
 
 
 
