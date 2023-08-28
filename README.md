@@ -13,10 +13,11 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 *Feel free to contact us or pull requests if you find any related papers that are not included here.*
 
 ## News
-Last update on 2023/8/21
+Last update on 2023/8/28
 
 #### VLM Pre-training Methods
 * [ICCV 2023] ALIP: Adaptive Language-Image Pre-training with Synthetic Caption [[Paper](https://arxiv.org/pdf/2308.08428.pdf)][[Code](https://github.com/deepglint/ALIP)]
+* [ICCV 2023] GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training [[Paper](https://arxiv.org/pdf/2308.11331v1.pdf)]
 
 
 
@@ -25,7 +26,8 @@ Last update on 2023/8/21
 * [ICCV 2023] Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[Paper](https://arxiv.org/pdf/2307.11978v1.pdf)][[Code](https://github.com/CEWu/PTNL)]
 * [ICCV 2023] PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization [[Paper](https://arxiv.org/pdf/2307.15199v1.pdf)][[Code](https://promptstyler.github.io/)]
 * [ICCV 2023] Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models [[Paper](https://arxiv.org/pdf/2303.06571.pdf)]
-* [ICCV 2023] PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation [[Paper](https://assets.amazon.science/ff/08/64f27eb54b82a0c59c95dc138af4/padclip-pseudo-labeling-with-adaptive-debiasing-in-clip.pdf)] 
+* [ICCV 2023] PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation [[Paper](https://assets.amazon.science/ff/08/64f27eb54b82a0c59c95dc138af4/padclip-pseudo-labeling-with-adaptive-debiasing-in-clip.pdf)]
+* [ICCV 2023] Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models [[Paper](https://arxiv.org/pdf/2308.11186v1.pdf)]
 * [ICCVW 2023] AD-CLIP: Adapting Domains in Prompt Space Using CLIP [[Paper](https://arxiv.org/pdf/2308.05659.pdf)]
 
 
