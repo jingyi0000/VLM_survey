@@ -334,7 +334,7 @@ If you find our work useful in your research, please consider citing:
 |[F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models](https://arxiv.org/abs/2209.15639)|ICLR 2023|[Code](https://github.com/google-research/google-research/tree/master/fvlm)|
 |[CondHead: Learning to Detect and Segment for Open Vocabulary Object Detection](https://arxiv.org/abs/2212.12130)|CVPR 2023|-|
 |[Aligning Bag of Regions for Open-Vocabulary Object Detection](https://arxiv.org/abs/2302.13996)|CVPR 2023|[Code](https://github.com/wusize/ovdet)|
-|[Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers](https://arxiv.org/abs/2305.07011v1)|CVPR 2023|-|
+|[Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers](https://arxiv.org/abs/2305.07011v1)|CVPR 2023|[Code](https://github.com/mcahny/rovit)|
 |[Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection](https://arxiv.org/abs/2303.05892)|CVPR 2023|[Code](https://github.com/LutingWang/OADP)|
 |[CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching](https://arxiv.org/abs/2303.13076v1)|CVPR 2023|[Code](https://github.com/tgxs002/CORA)|
 |[DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment](https://arxiv.org/abs/2304.04514v1)|CVPR 2023|-|
