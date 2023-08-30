@@ -13,7 +13,7 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 *Feel free to contact us or pull requests if you find any related papers that are not included here.*
 
 ## News
-Last update on 2023/8/28
+Last update on 2023/8/30
 
 #### VLM Pre-training Methods
 * [ICCV 2023] ALIP: Adaptive Language-Image Pre-training with Synthetic Caption [[Paper](https://arxiv.org/pdf/2308.08428.pdf)][[Code](https://github.com/deepglint/ALIP)]
@@ -28,6 +28,7 @@ Last update on 2023/8/28
 * [ICCV 2023] Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models [[Paper](https://arxiv.org/pdf/2303.06571.pdf)]
 * [ICCV 2023] PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation [[Paper](https://assets.amazon.science/ff/08/64f27eb54b82a0c59c95dc138af4/padclip-pseudo-labeling-with-adaptive-debiasing-in-clip.pdf)]
 * [ICCV 2023] Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models [[Paper](https://arxiv.org/pdf/2308.11186v1.pdf)]
+* [ICCV 2023] Read-only Prompt Optimization for Vision-Language Few-shot Learning [[Paper](https://arxiv.org/pdf/2308.14960.pdf)][[Code](https://github.com/mlvlab/RPO)]
 * [ICCVW 2023] AD-CLIP: Adapting Domains in Prompt Space Using CLIP [[Paper](https://arxiv.org/pdf/2308.05659.pdf)]
 
 
