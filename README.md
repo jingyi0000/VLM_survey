@@ -29,6 +29,7 @@ Last update on 2023/8/30
 * [ICCV 2023] PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation [[Paper](https://assets.amazon.science/ff/08/64f27eb54b82a0c59c95dc138af4/padclip-pseudo-labeling-with-adaptive-debiasing-in-clip.pdf)]
 * [ICCV 2023] Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models [[Paper](https://arxiv.org/pdf/2308.11186v1.pdf)]
 * [ICCV 2023] Read-only Prompt Optimization for Vision-Language Few-shot Learning [[Paper](https://arxiv.org/pdf/2308.14960.pdf)][[Code](https://github.com/mlvlab/RPO)]
+* [ICCV 2023] Bayesian Prompt Learning for Image-Language Model Generalization [[Paper](https://arxiv.org/pdf/2210.02390.pdf)][[Code](https://github.com/saic-fi/Bayesian-Prompt-Learning)]
 * [ICCVW 2023] AD-CLIP: Adapting Domains in Prompt Space Using CLIP [[Paper](https://arxiv.org/pdf/2308.05659.pdf)]
 
 
