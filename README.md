@@ -30,10 +30,12 @@ Last update on 2023/8/30
 * [ICCV 2023] Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models [[Paper](https://arxiv.org/pdf/2308.11186v1.pdf)]
 * [ICCV 2023] Read-only Prompt Optimization for Vision-Language Few-shot Learning [[Paper](https://arxiv.org/pdf/2308.14960.pdf)][[Code](https://github.com/mlvlab/RPO)]
 * [ICCV 2023] Bayesian Prompt Learning for Image-Language Model Generalization [[Paper](https://arxiv.org/pdf/2210.02390.pdf)][[Code](https://github.com/saic-fi/Bayesian-Prompt-Learning)]
+* [ICCV 2023] LoGoPrompt: Synthetic Text Images Can Be Good Visual Prompts for Vision-Language Models [[Paper](https://arxiv.org/pdf/2309.01155v1.pdf)][[Code](https://chengshiest.github.io/logo/)]
 * [ICCVW 2023] AD-CLIP: Adapting Domains in Prompt Space Using CLIP [[Paper](https://arxiv.org/pdf/2308.05659.pdf)]
 
 
 #### VLM Knowledge Distillation for Detection
+* [ICCV 2023] EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment [[Paper](https://arxiv.org/pdf/2309.01151v1.pdf)][[Code](https://chengshiest.github.io/edadet)]
 * [arXiv 2023] Improving Pseudo Labels for Open-Vocabulary Object Detection [[Paper](https://arxiv.org/pdf/2308.06412.pdf)]
 
 
