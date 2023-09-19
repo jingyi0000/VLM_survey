@@ -31,7 +31,10 @@ Last update on 2023/9/12
 * [ICCV 2023] Read-only Prompt Optimization for Vision-Language Few-shot Learning [[Paper](https://arxiv.org/pdf/2308.14960.pdf)][[Code](https://github.com/mlvlab/RPO)]
 * [ICCV 2023] Bayesian Prompt Learning for Image-Language Model Generalization [[Paper](https://arxiv.org/pdf/2210.02390.pdf)][[Code](https://github.com/saic-fi/Bayesian-Prompt-Learning)]
 * [ICCV 2023] LoGoPrompt: Synthetic Text Images Can Be Good Visual Prompts for Vision-Language Models [[Paper](https://arxiv.org/pdf/2309.01155v1.pdf)][[Code](https://chengshiest.github.io/logo/)]
+* [ICCV 2023] Distribution-Aware Prompt Tuning for Vision-Language Models [[Paper](https://arxiv.org/pdf/2309.03406.pdf)][[Code](https://github.com/mlvlab/DAPT)]
+* [ICCV 2023] Black Box Few-Shot Adaptation for Vision-Language models [[Paper](https://arxiv.org/pdf/2304.01752.pdf)][[Code](https://github.com/saic-fi/LFA)]
 * [ICCVW 2023] AD-CLIP: Adapting Domains in Prompt Space Using CLIP [[Paper](https://arxiv.org/pdf/2308.05659.pdf)]
+* [arXiv 2023] Language Models as Black-Box Optimizers for Vision-Language Models [[Paper](https://arxiv.org/abs/2309.05950)]
 
 
 #### VLM Knowledge Distillation for Detection
