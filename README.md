@@ -34,6 +34,7 @@ Last update on 2023/9/19
 * [ICCV 2023] Distribution-Aware Prompt Tuning for Vision-Language Models [[Paper](https://arxiv.org/pdf/2309.03406.pdf)][[Code](https://github.com/mlvlab/DAPT)]
 * [ICCV 2023] Black Box Few-Shot Adaptation for Vision-Language models [[Paper](https://arxiv.org/pdf/2304.01752.pdf)][[Code](https://github.com/saic-fi/LFA)]
 * [ICCVW 2023] AD-CLIP: Adapting Domains in Prompt Space Using CLIP [[Paper](https://arxiv.org/pdf/2308.05659.pdf)]
+* [arXiv 2023] Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning [[Paper](https://arxiv.org/pdf/2306.14565.pdf)][[Code](https://fuxiaoliu.github.io/LRV/)]
 * [arXiv 2023] Language Models as Black-Box Optimizers for Vision-Language Models [[Paper](https://arxiv.org/abs/2309.05950)]
 
 
