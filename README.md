@@ -48,6 +48,8 @@ Last update on 2023/10/2
 * [arXiv 2023] ICPC: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation [[Paper](https://arxiv.org/pdf/2308.07078.pdf)]
 * [arXiv 2023] Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP [[Paper](https://arxiv.org/pdf/2308.02487.pdf)][[Code](https://github.com/bytedance/fc-clip)]
 
+#### VLM Knowledge Distillation for Other Vision Tasks
+* [arXiv 2023] Controlling Vision-Language Models for Universal Image Restoration [[Paper](https://arxiv.org/abs/2310.01018)][[Code](https://github.com/Algolzw/daclip-uir)]
 
 
 ## Abstract
