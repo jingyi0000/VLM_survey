@@ -214,7 +214,7 @@ If you find our work useful in your research, please consider citing:
 |[RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-training](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_RA-CLIP_Retrieval_Augmented_Contrastive_Language-Image_Pre-Training_CVPR_2023_paper.pdf)|CVPR 2023|-|
 |[DeAR: Debiasing Vision-Language Models with Additive Residuals](https://arxiv.org/abs/2303.10431)|CVPR 2023|-|
 |[Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training](https://arxiv.org/abs/2301.02280)|CVPR 2023|[Code](https://github.com/facebookresearch/diht)|
-|[LaCLIP: Improving CLIP Training with Language Rewrites](https://arxiv.org/abs/2305.20088)|arXiv 2023|[Code](https://github.com/LijieFan/LaCLIP)|
+|[LaCLIP: Improving CLIP Training with Language Rewrites](https://arxiv.org/abs/2305.20088)|NeurIPS 2023|[Code](https://github.com/LijieFan/LaCLIP)|
 
 
 
