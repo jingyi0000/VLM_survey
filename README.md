@@ -13,7 +13,7 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 *Feel free to contact us or pull requests if you find any related papers that are not included here.*
 
 ## News
-Last update on 2023/10/2
+Last update on 2023/11/22
 
 #### VLM Pre-training Methods
 * [ICCV 2023] ALIP: Adaptive Language-Image Pre-training with Synthetic Caption [[Paper](https://arxiv.org/pdf/2308.08428.pdf)][[Code](https://github.com/deepglint/ALIP)]
@@ -34,6 +34,7 @@ Last update on 2023/10/2
 * [ICCV 2023] Distribution-Aware Prompt Tuning for Vision-Language Models [[Paper](https://arxiv.org/pdf/2309.03406.pdf)][[Code](https://github.com/mlvlab/DAPT)]
 * [ICCV 2023] Black Box Few-Shot Adaptation for Vision-Language models [[Paper](https://arxiv.org/pdf/2304.01752.pdf)][[Code](https://github.com/saic-fi/LFA)]
 * [ICCVW 2023] AD-CLIP: Adapting Domains in Prompt Space Using CLIP [[Paper](https://arxiv.org/pdf/2308.05659.pdf)]
+* [ICLR 2023] LPT: Long-Tailed Prompt Tuning For Image Classification [[Paper](https://arxiv.org/pdf/2210.01033.pdf)][[Code](https://github.com/DongSky/LPT)]
 * [arXiv 2023] Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning [[Paper](https://arxiv.org/pdf/2306.14565.pdf)][[Code](https://fuxiaoliu.github.io/LRV/)]
 * [arXiv 2023] Language Models as Black-Box Optimizers for Vision-Language Models [[Paper](https://arxiv.org/abs/2309.05950)]
 
