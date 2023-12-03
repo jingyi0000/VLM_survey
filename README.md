@@ -13,7 +13,7 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 *Feel free to contact us or pull requests if you find any related papers that are not included here.*
 
 ## News
-Last update on 2023/11/22
+Last update on 2023/12/03
 
 #### VLM Pre-training Methods
 * [ICCV 2023] ALIP: Adaptive Language-Image Pre-training with Synthetic Caption [[Paper](https://arxiv.org/pdf/2308.08428.pdf)][[Code](https://github.com/deepglint/ALIP)]
@@ -37,6 +37,9 @@ Last update on 2023/11/22
 * [ICLR 2023] LPT: Long-Tailed Prompt Tuning For Image Classification [[Paper](https://arxiv.org/pdf/2210.01033.pdf)][[Code](https://github.com/DongSky/LPT)]
 * [arXiv 2023] Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning [[Paper](https://arxiv.org/pdf/2306.14565.pdf)][[Code](https://fuxiaoliu.github.io/LRV/)]
 * [arXiv 2023] Language Models as Black-Box Optimizers for Vision-Language Models [[Paper](https://arxiv.org/abs/2309.05950)]
+* [arXiv 2023] HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding [[Paper]](https://arxiv.org/abs/2311.14064) [[Code]](https://github.com/richard-peng-xia/HGCLIP)
+* [arXiv 2023] CLAP: Contrastive Learning with Augmented Prompts for Robustness on Pretrained Vision-Language Models [[Paper]](https://arxiv.org/abs/2311.16445)
+* [arXiv 2023] Beyond Sole Strength: Customized Ensembles for Generalized Vision-Language Models [[Paper]](https://arxiv.org/abs/2311.17091) [[Code]](https://github.com/zhiheLu/Ensemble_VLM)
 
 
 #### VLM Knowledge Distillation for Detection
@@ -48,6 +51,7 @@ Last update on 2023/11/22
 * [ICCV 2023] SegPrompt: Boosting Open-World Segmentation via Category-level Prompt Learning [[Paper](https://arxiv.org/pdf/2308.06531v1.pdf)][[Code](https://github.com/aim-uofa/SegPrompt)]
 * [arXiv 2023] ICPC: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation [[Paper](https://arxiv.org/pdf/2308.07078.pdf)]
 * [arXiv 2023] Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP [[Paper](https://arxiv.org/pdf/2308.02487.pdf)][[Code](https://github.com/bytedance/fc-clip)]
+* [arXiv 2023] Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models [[Paper]](https://arxiv.org/abs/2311.17095)
 
 #### VLM Knowledge Distillation for Other Vision Tasks
 * [arXiv 2023] Controlling Vision-Language Models for Universal Image Restoration [[Paper](https://arxiv.org/abs/2310.01018)][[Code](https://github.com/Algolzw/daclip-uir)]
@@ -303,6 +307,8 @@ If you find our work useful in your research, please consider citing:
 |[SgVA-CLIP: Semantic-guided Visual Adapting of Vision-Language Models for Few-shot Image Classification](https://arxiv.org/abs/2211.16191)|arXiv 2022|-|
 |[SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More](https://arxiv.org/abs/2304.09148)|arXiv 2023|[Code](http://tianrun-chen.github.io/SAM-Adaptor/)|
 |[Segment Anything in High Quality](https://arxiv.org/abs/2306.01567)|arXiv 2023|[Code](https://github.com/SysCV/SAM-HQ)|
+|[HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding](https://arxiv.org/abs/2311.14064)|arXiv 2023|[Code](https://github.com/richard-peng-xia/HGCLIP)|
+|[CLAP: Contrastive Learning with Augmented Prompts for Robustness on Pretrained Vision-Language Models](https://arxiv.org/abs/2311.16445)|arXiv 2023|-|
 
 ### Transfer with Other Methods
 
@@ -322,6 +328,7 @@ If you find our work useful in your research, please consider citing:
 |[Chils: Zero-shot image classification with hierarchical label sets](https://proceedings.mlr.press/v202/novack23a/novack23a.pdf)|ICML 2023|[Code](https://github.com/acmi-lab/CHILS)|
 |[Improving Zero-shot Generalization and Robustness of Multi-modal Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Ge_Improving_Zero-Shot_Generalization_and_Robustness_of_Multi-Modal_Models_CVPR_2023_paper.pdf)|CVPR 2023|[Code](https://github.com/gyhandy/Hierarchy-CLIP)|
 |[Exploiting Category Names for Few-Shot Classification with Vision-Language Models](https://openreview.net/pdf?id=w25Q9Ttjrs)|ICLR W 2023|-|
+|[Beyond Sole Strength: Customized Ensembles for Generalized Vision-Language Models](https://arxiv.org/abs/2311.17091)|arXiv 2023|[Code](https://github.com/zhiheLu/Ensemble_VLM)|
 
 
 ## Vision-Language Model Knowledge Distillation Methods
@@ -377,7 +384,7 @@ If you find our work useful in your research, please consider citing:
 |[OpenVIS: Open-vocabulary Video Instance Segmentation](https://arxiv.org/abs/2305.16835)|arXiv 2023|-|
 |[Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2305.01275)|arXiv 2023|-|
 |[Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2305.05803)|arXiv 2023|[Code](https://github.com/cskyl/SAM_WSSS)|
-
+|[Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models](https://arxiv.org/abs/2311.17095)|arXiv 2023|-|
 
 
 
