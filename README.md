@@ -15,26 +15,39 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 
 *Feel free to contact us or pull requests if you find any related papers that are not included here.*
 
-## News
+## News🔥
 Last update on 2024/02/24
 
 #### VLM Pre-training Methods
+* [ICLR 2024] Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization [[Paper](https://arxiv.org/abs/2309.04669)][[Code](https://github.com/jy0205/LaVIT)]
+* [ICLR 2024] MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning [[Paper](https://arxiv.org/abs/2309.07915)][[Code](https://github.com/PKUnlp-icler/MIC)]
+* [ICLR 2024] Retrieval-Enhanced Contrastive Vision-Text Models [[Paper](https://arxiv.org/abs/2306.07196)]
+
 
 
 #### VLM Transfer Learning Methods
+* [ICLR 2024] DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning [[Paper](https://arxiv.org/abs/2309.05173)][[Code](https://github.com/ZhengxiangShi/DePT)]
+* [ICLR 2024] Nemesis: Normalizing the soft-prompt vectors of vision-language models [[Paper](https://openreview.net/pdf?id=zmJDzPh1Dm)]
+* [ICLR 2024] Prompt Gradient Projection for Continual Learning [[Paper](https://openreview.net/pdf?id=EH2O3h7sBI)]
+* [ICLR 2024] An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models [[Paper](https://openreview.net/pdf?id=nc5GgFAvtk)]
+* [ICLR 2024] Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching [[Paper](https://arxiv.org/abs/2305.13310)][[Code](https://github.com/aim-uofa/Matcher)]
+* [ICLR 2024] Text-driven Prompt Generation for Vision-Language Models in Federated Learning [[Paper](https://arxiv.org/abs/2310.06123)]
+* [ICLR 2024] Consistency-guided Prompt Learning for Vision-Language Models [[Paper](https://arxiv.org/abs/2306.01195)]
+* [ICLR 2024] C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion [[Paper](https://openreview.net/pdf?id=jzzEHTBFOT)]
 * [arXiv 2024] Learning to Prompt Segment Anything Models [[Paper](https://arxiv.org/pdf/2401.04651.pdf)]
-
 
 
 #### VLM Knowledge Distillation for Detection
 * [ICLR 2024] LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors [[Paper](https://arxiv.org/pdf/2402.04630.pdf)]
+* [ICLR 2024] Ins-DetCLIP: Aligning Detection Model to Follow Human-Language Instruction [[Paper](https://openreview.net/pdf?id=M0MF4t3hE9)]
 
 #### VLM Knowledge Distillation for Segmentation
+* [ICLR 2024] CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction [[Paper](https://arxiv.org/abs/2310.01403)]
 
 
 #### VLM Knowledge Distillation for Other Vision Tasks
 * [ICLR 2024] FROSTER: Frozen CLIP Is A Strong Teacher for Open-Vocabulary Action Recognition [[Paper](https://arxiv.org/pdf/2402.03241.pdf)][[Project](https://visual-ai.github.io/froster)]
-
+* [ICLR 2024] AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[Paper](https://arxiv.org/pdf/2310.18961.pdf)][[Code](https://github.com/zqhang/AnomalyCLIP)]
 
 
 ## Abstract
@@ -331,8 +344,7 @@ If you find our work useful in your research, please consider citing:
 |[AD-CLIP: Adapting Domains in Prompt Space Using CLIP](https://arxiv.org/pdf/2308.05659.pdf)|ICCVW 2023|-|
 |[Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/pdf/2306.14565.pdf)|arXiv 2023|[Code](https://fuxiaoliu.github.io/LRV/)|
 |[Language Models as Black-Box Optimizers for Vision-Language Models](https://arxiv.org/abs/2309.05950)|arXiv 2023|-|
-|[HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding](https://arxiv.org/abs/2311.14064)|arXiv 2023|[Code](https://github.com/richard-peng-xia/HGCLIP)|
-|[Beyond Sole Strength: Customized Ensembles for Generalized Vision-Language Models](https://arxiv.org/abs/2311.17091)|arXiv 2023|[Code](https://github.com/zhiheLu/Ensemble_VLM)|
+
 
 
 
