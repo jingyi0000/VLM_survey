@@ -16,48 +16,25 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 *Feel free to contact us or pull requests if you find any related papers that are not included here.*
 
 ## News
-Last update on 2023/12/03
+Last update on 2024/02/24
 
 #### VLM Pre-training Methods
-* [ICCV 2023] ALIP: Adaptive Language-Image Pre-training with Synthetic Caption [[Paper](https://arxiv.org/pdf/2308.08428.pdf)][[Code](https://github.com/deepglint/ALIP)]
-* [ICCV 2023] GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training [[Paper](https://arxiv.org/pdf/2308.11331v1.pdf)]
-
 
 
 #### VLM Transfer Learning Methods
-* [ICCV 2023] Regularized Mask Tuning: Uncovering Hidden Knowledge in Pre-trained Vision-Language Models [[Paper](https://arxiv.org/pdf/2307.15049v1.pdf)][[Code](https://wuw2019.github.io/RMT/)]
-* [ICCV 2023] Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[Paper](https://arxiv.org/pdf/2307.11978v1.pdf)][[Code](https://github.com/CEWu/PTNL)]
-* [ICCV 2023] PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization [[Paper](https://arxiv.org/pdf/2307.15199v1.pdf)][[Code](https://promptstyler.github.io/)]
-* [ICCV 2023] Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models [[Paper](https://arxiv.org/pdf/2303.06571.pdf)]
-* [ICCV 2023] PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation [[Paper](https://assets.amazon.science/ff/08/64f27eb54b82a0c59c95dc138af4/padclip-pseudo-labeling-with-adaptive-debiasing-in-clip.pdf)]
-* [ICCV 2023] Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models [[Paper](https://arxiv.org/pdf/2308.11186v1.pdf)]
-* [ICCV 2023] Read-only Prompt Optimization for Vision-Language Few-shot Learning [[Paper](https://arxiv.org/pdf/2308.14960.pdf)][[Code](https://github.com/mlvlab/RPO)]
-* [ICCV 2023] Bayesian Prompt Learning for Image-Language Model Generalization [[Paper](https://arxiv.org/pdf/2210.02390.pdf)][[Code](https://github.com/saic-fi/Bayesian-Prompt-Learning)]
-* [ICCV 2023] LoGoPrompt: Synthetic Text Images Can Be Good Visual Prompts for Vision-Language Models [[Paper](https://arxiv.org/pdf/2309.01155v1.pdf)][[Code](https://chengshiest.github.io/logo/)]
-* [ICCV 2023] Distribution-Aware Prompt Tuning for Vision-Language Models [[Paper](https://arxiv.org/pdf/2309.03406.pdf)][[Code](https://github.com/mlvlab/DAPT)]
-* [ICCV 2023] Black Box Few-Shot Adaptation for Vision-Language models [[Paper](https://arxiv.org/pdf/2304.01752.pdf)][[Code](https://github.com/saic-fi/LFA)]
-* [ICCVW 2023] AD-CLIP: Adapting Domains in Prompt Space Using CLIP [[Paper](https://arxiv.org/pdf/2308.05659.pdf)]
-* [ICLR 2023] LPT: Long-Tailed Prompt Tuning For Image Classification [[Paper](https://arxiv.org/pdf/2210.01033.pdf)][[Code](https://github.com/DongSky/LPT)]
-* [arXiv 2023] Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning [[Paper](https://arxiv.org/pdf/2306.14565.pdf)][[Code](https://fuxiaoliu.github.io/LRV/)]
-* [arXiv 2023] Language Models as Black-Box Optimizers for Vision-Language Models [[Paper](https://arxiv.org/abs/2309.05950)]
-* [arXiv 2023] HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding [[Paper]](https://arxiv.org/abs/2311.14064) [[Code]](https://github.com/richard-peng-xia/HGCLIP)
-* [arXiv 2023] CLAP: Contrastive Learning with Augmented Prompts for Robustness on Pretrained Vision-Language Models [[Paper]](https://arxiv.org/abs/2311.16445)
-* [arXiv 2023] Beyond Sole Strength: Customized Ensembles for Generalized Vision-Language Models [[Paper]](https://arxiv.org/abs/2311.17091) [[Code]](https://github.com/zhiheLu/Ensemble_VLM)
+* [arXiv 2024] Learning to Prompt Segment Anything Models [[Paper](https://arxiv.org/pdf/2401.04651.pdf)]
+
 
 
 #### VLM Knowledge Distillation for Detection
-* [ICCV 2023] EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment [[Paper](https://arxiv.org/pdf/2309.01151v1.pdf)][[Code](https://chengshiest.github.io/edadet)]
-* [arXiv 2023] Improving Pseudo Labels for Open-Vocabulary Object Detection [[Paper](https://arxiv.org/pdf/2308.06412.pdf)]
-
+* [ICLR 2024] LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors [[Paper](https://arxiv.org/pdf/2402.04630.pdf)]
 
 #### VLM Knowledge Distillation for Segmentation
-* [ICCV 2023] SegPrompt: Boosting Open-World Segmentation via Category-level Prompt Learning [[Paper](https://arxiv.org/pdf/2308.06531v1.pdf)][[Code](https://github.com/aim-uofa/SegPrompt)]
-* [arXiv 2023] ICPC: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation [[Paper](https://arxiv.org/pdf/2308.07078.pdf)]
-* [arXiv 2023] Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP [[Paper](https://arxiv.org/pdf/2308.02487.pdf)][[Code](https://github.com/bytedance/fc-clip)]
-* [arXiv 2023] Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models [[Paper]](https://arxiv.org/abs/2311.17095)
+
 
 #### VLM Knowledge Distillation for Other Vision Tasks
-* [arXiv 2023] Controlling Vision-Language Models for Universal Image Restoration [[Paper](https://arxiv.org/abs/2310.01018)][[Code](https://github.com/Algolzw/daclip-uir)]
+* [ICLR 2024] FROSTER: Frozen CLIP Is A Strong Teacher for Open-Vocabulary Action Recognition [[Paper](https://arxiv.org/pdf/2402.03241.pdf)][[Project](https://visual-ai.github.io/froster)]
+
 
 
 ## Abstract
@@ -214,7 +191,6 @@ If you find our work useful in your research, please consider citing:
 |[Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese](https://arxiv.org/abs/2211.01335)|arXiv 2022|[Code](https://github.com/OFA-Sys/Chinese-CLIP)|
 |[AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities](https://arxiv.org/abs/2211.06679)|arXiv 2022|[Code](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltCLIP)|
 |[SegCLIP: Patch Aggregation with Learnable Centers for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2211.14813)|arXiv 2022|[Code](https://github.com/ArrowLuo/SegCLIP)|
-|[CLIPpy: Perceptual Grouping in Contrastive Vision-Language Models](https://arxiv.org/abs/2210.09996)|ICCV 2023|-|
 |[NLIP: Noise-robust Language-Image Pre-training](https://arxiv.org/abs/2212.07086)|AAAI 2023|-|
 |[PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://arxiv.org/abs/2209.06794)|ICLR 2023|[Project](https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)|
 |[HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention](https://arxiv.org/abs/2303.02995)|ICLR 2023|[Code](https://github.com/jeykigung/hiclip)|
@@ -223,6 +199,10 @@ If you find our work useful in your research, please consider citing:
 |[DeAR: Debiasing Vision-Language Models with Additive Residuals](https://arxiv.org/abs/2303.10431)|CVPR 2023|-|
 |[Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training](https://arxiv.org/abs/2301.02280)|CVPR 2023|[Code](https://github.com/facebookresearch/diht)|
 |[LaCLIP: Improving CLIP Training with Language Rewrites](https://arxiv.org/abs/2305.20088)|NeurIPS 2023|[Code](https://github.com/LijieFan/LaCLIP)|
+|[ALIP: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/pdf/2308.08428.pdf)|ICCV 2023|[Code](https://github.com/deepglint/ALIP)|
+|[GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2308.11331v1.pdf)|ICCV 2023|-|
+|[CLIPpy: Perceptual Grouping in Contrastive Vision-Language Models](https://arxiv.org/abs/2210.09996)|ICCV 2023|-|
+
 
 
 
@@ -271,14 +251,24 @@ If you find our work useful in your research, please consider citing:
 |[SoftCPT: Prompt Tuning with Soft Context Sharing for Vision-Language Models](https://arxiv.org/abs/2208.13474)|arXiv 2022|[Code](https://github.com/kding1225/softcpt)|
 |[SubPT: Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2211.02219)|TCSVT 2023|[Code](https://github.com/machengcheng2016/Subspace-Prompt-Learning)|
 |[LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models](https://arxiv.org/abs/2210.01115)|CVPR 2023|[Code](https://www.adrianbulat.com/lasp)|
-|[PLOT: Prompt Learning with Optimal Transport for Vision-Language Models](https://arxiv.org/abs/2210.01253)|ICLR 2023|[Code](https://github.com/CHENGY12/PLOT)|
 |[LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition](https://arxiv.org/abs/2305.04536)|arXiv 2023|[Code](https://github.com/richard-peng-xia/LMPT)|
 |[Texts as Images in Prompt Tuning for Multi-Label Image Recognition](https://arxiv.org/abs/2211.12739)|CVPR 2023|[code](https://github.com/guozix/TaI-DPT)
 |[Visual-Language Prompt Tuning with Knowledge-guided Context Optimization](https://arxiv.org/abs/2303.13283)|CVPR 2023|[Code](https://github.com/htyao89/KgCoOp)|
 |[Learning to Name Classes for Vision and Language Models](https://arxiv.org/abs/2304.01830v1)|CVPR 2023|-|
+|[PLOT: Prompt Learning with Optimal Transport for Vision-Language Models](https://arxiv.org/abs/2210.01253)|ICLR 2023|[Code](https://github.com/CHENGY12/PLOT)|
 |[CuPL: What does a platypus look like? Generating customized prompts for zero-shot image classification](https://arxiv.org/abs/2209.03320)|ICCV 2023|[Code](https://github.com/sarahpratt/CuPL)|
 |[ProTeCt: Prompt Tuning for Hierarchical Consistency](https://arxiv.org/abs/2306.02240)|arXiv 2023|-|
 |[Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning](https://arxiv.org/abs/2306.01669)|arXiv 2023|[Code](http://github.com/BatsResearch/menghini-enhanceCLIPwithCLIP-code)|
+|[Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels?](https://arxiv.org/pdf/2307.11978v1.pdf)|ICCV 2023|[Code](https://github.com/CEWu/PTNL)|
+|[Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models](https://arxiv.org/pdf/2303.06571.pdf)|ICCV 2023|-|
+|[Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models](https://arxiv.org/pdf/2308.11186v1.pdf)|ICCV 2023|-|
+|[Read-only Prompt Optimization for Vision-Language Few-shot Learning](https://arxiv.org/pdf/2308.14960.pdf)|ICCV 2023|[Code](https://github.com/mlvlab/RPO)|
+|[Bayesian Prompt Learning for Image-Language Model Generalization](https://arxiv.org/pdf/2210.02390.pdf)|ICCV 2023|[Code](https://github.com/saic-fi/Bayesian-Prompt-Learning)|
+|[Distribution-Aware Prompt Tuning for Vision-Language Models](https://arxiv.org/pdf/2309.03406.pdf)|ICCV 2023|[Code](https://github.com/mlvlab/DAPT)|
+|[LPT: Long-Tailed Prompt Tuning For Image Classification](https://arxiv.org/pdf/2210.01033.pdf)|ICCV 2023|[Code](https://github.com/DongSky/LPT)|
+|[CLAP: Contrastive Learning with Augmented Prompts for Robustness on Pretrained Vision-Language Models](https://arxiv.org/abs/2311.16445)|arXiv 2023|-|
+
+
 
 
 #### Transfer with Visual Prompt Tuning
@@ -288,6 +278,8 @@ If you find our work useful in your research, please consider citing:
 |[Exploring Visual Prompts for Adapting Large-Scale Models](https://arxiv.org/abs/2203.17274)|arXiv 2022|[Code](https://github.com/hjbahng/visual_prompting)|
 |[Retrieval-Enhanced Visual Prompt Learning for Few-shot Classification](https://arxiv.org/abs/2306.02243)|arXiv 2023|-|
 |[Fine-Grained Visual Prompting](https://arxiv.org/abs/2306.04356)|arXiv 2023|-|
+|[LoGoPrompt: Synthetic Text Images Can Be Good Visual Prompts for Vision-Language Models](https://arxiv.org/pdf/2309.01155v1.pdf)|ICCV 2023|[Code](https://chengshiest.github.io/logo/)|
+
 
 #### Transfer with Text and Visual Prompt Tuning
 
@@ -332,6 +324,18 @@ If you find our work useful in your research, please consider citing:
 |[Improving Zero-shot Generalization and Robustness of Multi-modal Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Ge_Improving_Zero-Shot_Generalization_and_Robustness_of_Multi-Modal_Models_CVPR_2023_paper.pdf)|CVPR 2023|[Code](https://github.com/gyhandy/Hierarchy-CLIP)|
 |[Exploiting Category Names for Few-Shot Classification with Vision-Language Models](https://openreview.net/pdf?id=w25Q9Ttjrs)|ICLR W 2023|-|
 |[Beyond Sole Strength: Customized Ensembles for Generalized Vision-Language Models](https://arxiv.org/abs/2311.17091)|arXiv 2023|[Code](https://github.com/zhiheLu/Ensemble_VLM)|
+|[Regularized Mask Tuning: Uncovering Hidden Knowledge in Pre-trained Vision-Language Models](https://arxiv.org/pdf/2307.15049v1.pdf)|ICCV 2023|[Code](https://wuw2019.github.io/RMT/)|
+|[PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](https://arxiv.org/pdf/2307.15199v1.pdf)|ICCV 2023|[Code](https://promptstyler.github.io/)|
+|[PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation](https://assets.amazon.science/ff/08/64f27eb54b82a0c59c95dc138af4/padclip-pseudo-labeling-with-adaptive-debiasing-in-clip.pdf)|ICCV 2023|-|
+|[Black Box Few-Shot Adaptation for Vision-Language models](https://arxiv.org/pdf/2304.01752.pdf)|ICCV 2023|[Code](https://github.com/saic-fi/LFA)|
+|[AD-CLIP: Adapting Domains in Prompt Space Using CLIP](https://arxiv.org/pdf/2308.05659.pdf)|ICCVW 2023|-|
+|[Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/pdf/2306.14565.pdf)|arXiv 2023|[Code](https://fuxiaoliu.github.io/LRV/)|
+|[Language Models as Black-Box Optimizers for Vision-Language Models](https://arxiv.org/abs/2309.05950)|arXiv 2023|-|
+|[HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding](https://arxiv.org/abs/2311.14064)|arXiv 2023|[Code](https://github.com/richard-peng-xia/HGCLIP)|
+|[Beyond Sole Strength: Customized Ensembles for Generalized Vision-Language Models](https://arxiv.org/abs/2311.17091)|arXiv 2023|[Code](https://github.com/zhiheLu/Ensemble_VLM)|
+
+
+
 
 
 ## Vision-Language Model Knowledge Distillation Methods
@@ -363,6 +367,10 @@ If you find our work useful in your research, please consider citing:
 |[CapDet: Unifying Dense Captioning and Open-World Detection Pretraining](https://arxiv.org/abs/2303.02489)|CVPR 2023|-|
 |[Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279)|arXiv 2023|[Code](https://github.com/yuhangzang/ContextDET)|
 |[Building One-class Detector for Anything: Open-vocabulary Zero-shot OOD Detection Using Text-image Models](https://arxiv.org/abs/2305.17207)|arXiv 2023|[Code](https://github.com/gyhandy/One-Class-Anything)|
+|[EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment](https://arxiv.org/pdf/2309.01151v1.pdf)|ICCV 2023|[Code](https://chengshiest.github.io/edadet)|
+|[Improving Pseudo Labels for Open-Vocabulary Object Detection](https://arxiv.org/pdf/2308.06412.pdf)|arXiv 2023|-|
+
+
 
 
 ### Knowledge Distillation for Semantic Segmentation
@@ -388,10 +396,16 @@ If you find our work useful in your research, please consider citing:
 |[Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2305.01275)|arXiv 2023|-|
 |[Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2305.05803)|arXiv 2023|[Code](https://github.com/cskyl/SAM_WSSS)|
 |[Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models](https://arxiv.org/abs/2311.17095)|arXiv 2023|-|
+|[SegPrompt: Boosting Open-World Segmentation via Category-level Prompt Learning](https://arxiv.org/pdf/2308.06531v1.pdf)|ICCV 2023|[Code](https://github.com/aim-uofa/SegPrompt)|
+|[ICPC: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation](https://arxiv.org/pdf/2308.07078.pdf)|arXiv 2023|-|
+|[Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP](https://arxiv.org/pdf/2308.02487.pdf)|arXiv 2023|[Code](https://github.com/bytedance/fc-clip)|
+|[Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models](https://arxiv.org/abs/2311.17095)|arXiv 2023|-|
 
+### Knowledge Distillation for Other Tasks
 
-
-
+| Paper                                             |  Published in | Code/Project |                                  
+|---------------------------------------------------|:-------------:|:------------:|
+|[Controlling Vision-Language Models for Universal Image Restoration](https://arxiv.org/abs/2310.01018)|arXiv 2023|[Code](https://github.com/Algolzw/daclip-uir)|
 
 
 
