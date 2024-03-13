@@ -16,7 +16,7 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 *Feel free to contact us or pull requests if you find any related papers that are not included here.*
 
 ## News🔥
-Last update on 2024/02/24
+Last update on 2024/03/13
 
 #### VLM Pre-training Methods
 * [ICLR 2024] Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization [[Paper](https://arxiv.org/abs/2309.04669)][[Code](https://github.com/jy0205/LaVIT)]
@@ -26,6 +26,7 @@ Last update on 2024/02/24
 
 
 #### VLM Transfer Learning Methods
+* [CVPR 2024] One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models [[Paper](https://arxiv.org/abs/2403.01849v1)][[Code](https://github.com/TreeLLi/APT)]
 * [ICLR 2024] DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning [[Paper](https://arxiv.org/abs/2309.05173)][[Code](https://github.com/ZhengxiangShi/DePT)]
 * [ICLR 2024] Nemesis: Normalizing the soft-prompt vectors of vision-language models [[Paper](https://openreview.net/pdf?id=zmJDzPh1Dm)]
 * [ICLR 2024] Prompt Gradient Projection for Continual Learning [[Paper](https://openreview.net/pdf?id=EH2O3h7sBI)]
