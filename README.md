@@ -16,12 +16,14 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 *Feel free to contact us or pull requests if you find any related papers that are not included here.*
 
 ## News🔥
-Last update on 2024/03/13
+Last update on 2024/03/18
 
 #### VLM Pre-training Methods
 * [ICLR 2024] Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization [[Paper](https://arxiv.org/abs/2309.04669)][[Code](https://github.com/jy0205/LaVIT)]
 * [ICLR 2024] MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning [[Paper](https://arxiv.org/abs/2309.07915)][[Code](https://github.com/PKUnlp-icler/MIC)]
 * [ICLR 2024] Retrieval-Enhanced Contrastive Vision-Text Models [[Paper](https://arxiv.org/abs/2306.07196)]
+* [CVPR 2024] Generative Region-Language Pretraining for Open-Ended Object Detection [[Paper](https://arxiv.org/pdf/2403.10191v1.pdf)][[Code](https://github.com/FoundationVision/GenerateU)]
+* [CVPR 2024] Enhancing Vision-Language Pre-training with Rich Supervisions [[Paper](https://arxiv.org/pdf/2403.03346v1.pdf)]
 
 
 
@@ -41,6 +43,7 @@ Last update on 2024/03/13
 #### VLM Knowledge Distillation for Detection
 * [ICLR 2024] LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors [[Paper](https://arxiv.org/pdf/2402.04630.pdf)]
 * [ICLR 2024] Ins-DetCLIP: Aligning Detection Model to Follow Human-Language Instruction [[Paper](https://openreview.net/pdf?id=M0MF4t3hE9)]
+* [CVPR 2024] RegionGPT: Towards Region Understanding Vision Language Model [[Paper](https://arxiv.org/pdf/2403.02330v1.pdf)][[Code](https://guoqiushan.github.io/regiongpt.github.io/)]
 
 #### VLM Knowledge Distillation for Segmentation
 * [ICLR 2024] CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction [[Paper](https://arxiv.org/abs/2310.01403)]
