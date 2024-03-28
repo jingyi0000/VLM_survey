@@ -62,11 +62,12 @@ Most visual recognition studies rely heavily on crowd-labelled data in deep neur
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@article{zhang2023vision,
-  title={Vision-Language Models for Vision Tasks: A Survey},
+@article{zhang2024vision,
+  title={Vision-language models for vision tasks: A survey},
   author={Zhang, Jingyi and Huang, Jiaxing and Jin, Sheng and Lu, Shijian},
-  journal={arXiv preprint arXiv:2304.00685},
-  year={2023}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
