@@ -4,8 +4,9 @@
 
 This is the repository of **Vision Language Models for Vision Tasks: a Survey**, a systematic survey of VLM studies in various visual recognition tasks including image classification, object detection, semantic segmentation, etc. For details, please refer to:
 
-**Vision-Language Models for Vision Tasks: A Survey**  
- [[Paper](https://arxiv.org/abs/2304.00685)]
+**Vision-Language Models for Vision Tasks: A Survey**  [[Paper](https://arxiv.org/abs/2304.00685)]
+
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024*
  
 [![arXiv](https://img.shields.io/badge/arXiv-2304.00685-b31b1b.svg)](https://arxiv.org/abs/2304.00685) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
@@ -13,7 +14,15 @@ This is the repository of **Vision Language Models for Vision Tasks: a Survey**,
 <!-- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) -->
 <!-- [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) -->
 
-*Feel free to contact us or pull requests if you find any related papers that are not included here.*
+*Feel free to pull requests or contact us if you find any related papers that are not included here.*
+
+The process to submit a pull request is as follows:
+- a. Fork the project into your own repository.
+- b. Add the Title, Paper link, Conference, Project/Code link in `README.md` using the following format:
+```
+  |[Title](Paper Link)|Conference|[Code/Project](Code/Project link)|
+```
+- c. Submit the pull request to this branch.
 
 ## News🔥
 Last update on 2024/03/18
