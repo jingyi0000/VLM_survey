@@ -1,4 +1,4 @@
-## Vision Language Models for Vision Tasks: A Survey
+## Awesome Vision-Language Models for Vision Tasks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src="./images/overview.png" width="96%" height="96%">
 
@@ -24,7 +24,7 @@ The process to submit a pull request is as follows:
 ```
 - c. Submit the pull request to this branch.
 
-## News🔥
+## 🔥 News
 Last update on 2024/03/18
 
 #### VLM Pre-training Methods
