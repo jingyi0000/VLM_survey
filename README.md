@@ -1,4 +1,4 @@
-## Awesome Vision-Language Models for Vision Tasks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Vision-Language Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src="./images/overview.png" width="96%" height="96%">
 
