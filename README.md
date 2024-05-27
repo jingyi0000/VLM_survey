@@ -25,9 +25,17 @@ The process to submit a pull request is as follows:
 - c. Submit the pull request to this branch.
 
 ## 🔥 News
-Last update on 2024/03/18
+Last update on 2024/05/27
 
 #### VLM Pre-training Methods
+* [CVPR 2024] Efficient Vision-Language Pre-training by Cluster Masking [[Paper](https://arxiv.org/pdf/2405.08815)][[Code](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)]
+* [CVPR 2024] Towards Better Vision-Inspired Vision-Language Models [[Paper](https://www.lamda.nju.edu.cn/caoyh/files/VIVL.pdf)]
+* [CVPR 2024] Non-autoregressive Sequence-to-Sequence Vision-Language Models [[Paper](https://arxiv.org/abs/2403.02249v1)]
+* [CVPR 2024] ViTamin: Designing Scalable Vision Models in the Vision-Language Era [[Paper](https://arxiv.org/abs/2404.02132v1)][[Code](https://github.com/Beckschen/ViTamin)]
+* [CVPR 2024] Iterated Learning Improves Compositionality in Large Vision-Language Models [[Paper](https://arxiv.org/abs/2404.02145v1)]
+* [CVPR 2024] FairCLIP: Harnessing Fairness in Vision-Language Learning [[Paper](https://arxiv.org/abs/2403.19949v1)][[Code](https://ophai.hms.harvard.edu/datasets/fairvlmed10k)]
+* [CVPR 2024] InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks [[Paper](https://arxiv.org/abs/2312.14238)][[Code](https://github.com/OpenGVLab/InternVL)]
+* [CVPR 2024] VILA: On Pre-training for Visual Language Models [[Paper](https://arxiv.org/abs/2312.07533)]
 * [CVPR 2024] Generative Region-Language Pretraining for Open-Ended Object Detection [[Paper](https://arxiv.org/pdf/2403.10191v1.pdf)][[Code](https://github.com/FoundationVision/GenerateU)]
 * [CVPR 2024] Enhancing Vision-Language Pre-training with Rich Supervisions [[Paper](https://arxiv.org/pdf/2403.03346v1.pdf)]
 * [ICLR 2024] Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization [[Paper](https://arxiv.org/abs/2309.04669)][[Code](https://github.com/jy0205/LaVIT)]
@@ -39,6 +47,14 @@ Last update on 2024/03/18
 
 #### VLM Transfer Learning Methods
 * [CVPR 2024] One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models [[Paper](https://arxiv.org/abs/2403.01849v1)][[Code](https://github.com/TreeLLi/APT)]
+* [CVPR 2024] Any-Shift Prompting for Generalization over Distributions [[Paper](https://arxiv.org/abs/2402.10099)]
+* [CVPR 2024] A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models [[Paper](https://arxiv.org/abs/2312.12730)][[Code](https://github.com/jusiro/CLAP)]
+* [CVPR 2024] Anchor-based Robust Finetuning of Vision-Language Models [[Paper](https://arxiv.org/abs/2404.06244)]
+* [CVPR 2024] Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners [[Paper](https://arxiv.org/abs/2404.02117v1)][[Code](https://github.com/KHU-AGI/PriViLege)]
+* [CVPR 2024] Visual In-Context Prompting [[Paper](https://arxiv.org/abs/2311.13601)][[Code](https://github.com/UX-Decoder/DINOv)]
+* [CVPR 2024] TCP:Textual-based Class-aware Prompt tuning for Visual-Language Model [[Paper](https://arxiv.org/abs/2311.18231)][[Code](https://github.com/htyao89/Textual-based_Class-aware_prompt_tuning/)]
+* [CVPR 2024] Efficient Test-Time Adaptation of Vision-Language Models [[Paper](https://arxiv.org/abs/2403.18293v1)][[Code](https://kdiaaa.github.io/tda/)]
+* [CVPR 2024] Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models [[Paper](https://arxiv.org/abs/2403.17589v1)][[Code](https://github.com/YBZh/DMN)]
 * [ICLR 2024] DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning [[Paper](https://arxiv.org/abs/2309.05173)][[Code](https://github.com/ZhengxiangShi/DePT)]
 * [ICLR 2024] Nemesis: Normalizing the soft-prompt vectors of vision-language models [[Paper](https://openreview.net/pdf?id=zmJDzPh1Dm)]
 * [ICLR 2024] Prompt Gradient Projection for Continual Learning [[Paper](https://openreview.net/pdf?id=EH2O3h7sBI)]
