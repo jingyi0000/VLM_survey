@@ -25,7 +25,7 @@ The process to submit a pull request is as follows:
 - c. Submit the pull request to this branch.
 
 ## 🔥 News
-Last update on 2024/05/27
+Last update on 2024/07/10
 
 #### VLM Pre-training Methods
 * [CVPR 2024] Efficient Vision-Language Pre-training by Cluster Masking [[Paper](https://arxiv.org/pdf/2405.08815)][[Code](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)]
@@ -46,6 +46,9 @@ Last update on 2024/05/27
 
 
 #### VLM Transfer Learning Methods
+* [ECCV 2024] FALIP: Visual Prompt as Foveal Attention Boosts CLIP Zero-Shot Performance [[Paper](https://arxiv.org/abs/2407.05578v1)][[Code](https://pumpkin805.github.io/FALIP/)]
+* [ECCV 2024] GalLoP: Learning Global and Local Prompts for Vision-Language Models [[Paper](https://arxiv.org/pdf/2407.01400)]
+* [ECCV 2024] Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models [[Paper](https://arxiv.org/pdf/2407.05342v1)][[Code](https://github.com/lloongx/DIKI)]
 * [CVPR 2024] One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models [[Paper](https://arxiv.org/abs/2403.01849v1)][[Code](https://github.com/TreeLLi/APT)]
 * [CVPR 2024] Any-Shift Prompting for Generalization over Distributions [[Paper](https://arxiv.org/abs/2402.10099)]
 * [CVPR 2024] A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models [[Paper](https://arxiv.org/abs/2312.12730)][[Code](https://github.com/jusiro/CLAP)]
