@@ -25,7 +25,7 @@ The process to submit a pull request is as follows:
 - c. Submit the pull request to this branch.
 
 ## 🔥 News
-Last update on 2024/07/10
+Last update on 2024/07/24
 
 #### VLM Pre-training Methods
 * [CVPR 2024] Efficient Vision-Language Pre-training by Cluster Masking [[Paper](https://arxiv.org/pdf/2405.08815)][[Code](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)]
@@ -46,6 +46,7 @@ Last update on 2024/07/10
 
 
 #### VLM Transfer Learning Methods
+* [ECCV 2024] CLAP: Isolating Content from Style through Contrastive Learning with Augmented Prompts [[Paper](https://arxiv.org/abs/2311.16445)][[Code](https://github.com/YichaoCai1/CLAP)]
 * [ECCV 2024] FALIP: Visual Prompt as Foveal Attention Boosts CLIP Zero-Shot Performance [[Paper](https://arxiv.org/abs/2407.05578v1)][[Code](https://pumpkin805.github.io/FALIP/)]
 * [ECCV 2024] GalLoP: Learning Global and Local Prompts for Vision-Language Models [[Paper](https://arxiv.org/pdf/2407.01400)]
 * [ECCV 2024] Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models [[Paper](https://arxiv.org/pdf/2407.05342v1)][[Code](https://github.com/lloongx/DIKI)]
@@ -314,7 +315,7 @@ If you find our work useful in your research, please consider citing:
 |[Distribution-Aware Prompt Tuning for Vision-Language Models](https://arxiv.org/pdf/2309.03406.pdf)|ICCV 2023|[Code](https://github.com/mlvlab/DAPT)|
 |[LPT: Long-Tailed Prompt Tuning For Image Classification](https://arxiv.org/pdf/2210.01033.pdf)|ICCV 2023|[Code](https://github.com/DongSky/LPT)|
 |[Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Diverse_Data_Augmentation_with_Diffusions_for_Effective_Test-time_Prompt_Tuning_ICCV_2023_paper.pdf)|ICCV 2023|[Code](https://github.com/chunmeifeng/DiffTPT)|
-|[CLAP: Contrastive Learning with Augmented Prompts for Robustness on Pretrained Vision-Language Models](https://arxiv.org/abs/2311.16445)|arXiv 2023|-|
+|[CLAP: Isolating Content from Style through Contrastive Learning with Augmented Prompts](https://arxiv.org/abs/2311.16445)|ECCV 2024|[Code](https://github.com/YichaoCai1/CLAP)|
 
 
 
