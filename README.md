@@ -27,6 +27,10 @@ The process to submit a pull request is as follows:
 ## 🔥 News
 Last update on 2024/07/24
 
+#### VLM Representational Analysis Methods
+* [CVPR 2024] Do Vision and Language Encoders Represent the World Similarly? [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Maniparambil_Do_Vision_and_Language_Encoders_Represent_the_World_Similarly_CVPR_2024_paper.pdf)][[Code](https://github.com/mayug/0-shot-llm-vision)]
+
+
 #### VLM Pre-training Methods
 * [CVPR 2024] Efficient Vision-Language Pre-training by Cluster Masking [[Paper](https://arxiv.org/pdf/2405.08815)][[Code](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)]
 * [CVPR 2024] Towards Better Vision-Inspired Vision-Language Models [[Paper](https://www.lamda.nju.edu.cn/caoyh/files/VIVL.pdf)]
