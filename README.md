@@ -47,6 +47,8 @@ Last update on 2024/07/24
 
 
 #### VLM Transfer Learning Methods
+* [NeurIPS 2024] AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation [[Paper](https://arxiv.org/abs/2407.04603)][[Code](https://github.com/MCG-NJU/AWT)]
+* [IJCV 2024] Progressive Visual Prompt Learning with Contrastive Feature Re-formation [[Paper](https://arxiv.org/abs/2304.08386)][[Code](https://github.com/MCG-NJU/ProVP)]
 * [ECCV 2024] CLAP: Isolating Content from Style through Contrastive Learning with Augmented Prompts [[Paper](https://arxiv.org/abs/2311.16445)][[Code](https://github.com/YichaoCai1/CLAP)]
 * [ECCV 2024] FALIP: Visual Prompt as Foveal Attention Boosts CLIP Zero-Shot Performance [[Paper](https://arxiv.org/abs/2407.05578v1)][[Code](https://pumpkin805.github.io/FALIP/)]
 * [ECCV 2024] GalLoP: Learning Global and Local Prompts for Vision-Language Models [[Paper](https://arxiv.org/pdf/2407.01400)]
@@ -317,7 +319,8 @@ If you find our work useful in your research, please consider citing:
 |[LPT: Long-Tailed Prompt Tuning For Image Classification](https://arxiv.org/pdf/2210.01033.pdf)|ICCV 2023|[Code](https://github.com/DongSky/LPT)|
 |[Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Diverse_Data_Augmentation_with_Diffusions_for_Effective_Test-time_Prompt_Tuning_ICCV_2023_paper.pdf)|ICCV 2023|[Code](https://github.com/chunmeifeng/DiffTPT)|
 |[CLAP: Isolating Content from Style through Contrastive Learning with Augmented Prompts](https://arxiv.org/abs/2311.16445)|ECCV 2024|[Code](https://github.com/YichaoCai1/CLAP)|
-
+|[Efficient Test-Time Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2408.05775)|arXiv 2024|-|
+|[AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation](https://arxiv.org/abs/2407.04603)|NeurIPS 2024|[Code](https://github.com/MCG-NJU/AWT)|
 
 
 
@@ -329,6 +332,7 @@ If you find our work useful in your research, please consider citing:
 |[Retrieval-Enhanced Visual Prompt Learning for Few-shot Classification](https://arxiv.org/abs/2306.02243)|arXiv 2023|-|
 |[Fine-Grained Visual Prompting](https://arxiv.org/abs/2306.04356)|arXiv 2023|-|
 |[LoGoPrompt: Synthetic Text Images Can Be Good Visual Prompts for Vision-Language Models](https://arxiv.org/pdf/2309.01155v1.pdf)|ICCV 2023|[Code](https://chengshiest.github.io/logo/)|
+|[Progressive Visual Prompt Learning with Contrastive Feature Re-formation](https://arxiv.org/abs/2304.08386)|IJCV 2024|[Code](https://github.com/MCG-NJU/ProVP)|
 
 
 #### Transfer with Text and Visual Prompt Tuning
@@ -355,6 +359,7 @@ If you find our work useful in your research, please consider citing:
 |[Segment Anything in High Quality](https://arxiv.org/abs/2306.01567)|arXiv 2023|[Code](https://github.com/SysCV/SAM-HQ)|
 |[HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding](https://arxiv.org/abs/2311.14064)|arXiv 2023|[Code](https://github.com/richard-peng-xia/HGCLIP)|
 |[CLAP: Contrastive Learning with Augmented Prompts for Robustness on Pretrained Vision-Language Models](https://arxiv.org/abs/2311.16445)|arXiv 2023|-|
+|[AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation](https://arxiv.org/abs/2407.04603)|NeurIPS 2024|[Code](https://github.com/MCG-NJU/AWT)|
 
 ### Transfer with Other Methods
 
@@ -382,7 +387,6 @@ If you find our work useful in your research, please consider citing:
 |[AD-CLIP: Adapting Domains in Prompt Space Using CLIP](https://arxiv.org/pdf/2308.05659.pdf)|ICCVW 2023|-|
 |[Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/pdf/2306.14565.pdf)|arXiv 2023|[Code](https://fuxiaoliu.github.io/LRV/)|
 |[Language Models as Black-Box Optimizers for Vision-Language Models](https://arxiv.org/abs/2309.05950)|arXiv 2023|-|
-
 
 
 
