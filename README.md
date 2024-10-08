@@ -27,12 +27,11 @@ The process to submit a pull request is as follows:
 - c. Submit the pull request to this branch.
 
 ## 🔥 News
-Last update on 2024/07/24
+Last update on 2024/10/07
 
 #### VLM Pre-training Methods
 * [CVPR 2024] Do Vision and Language Encoders Represent the World Similarly? [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Maniparambil_Do_Vision_and_Language_Encoders_Represent_the_World_Similarly_CVPR_2024_paper.pdf)][[Code](https://github.com/mayug/0-shot-llm-vision)]
 * [CVPR 2024] Efficient Vision-Language Pre-training by Cluster Masking [[Paper](https://arxiv.org/pdf/2405.08815)][[Code](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)]
-* [CVPR 2024] Towards Better Vision-Inspired Vision-Language Models [[Paper](https://www.lamda.nju.edu.cn/caoyh/files/VIVL.pdf)]
 * [CVPR 2024] Non-autoregressive Sequence-to-Sequence Vision-Language Models [[Paper](https://arxiv.org/abs/2403.02249v1)]
 * [CVPR 2024] ViTamin: Designing Scalable Vision Models in the Vision-Language Era [[Paper](https://arxiv.org/abs/2404.02132v1)][[Code](https://github.com/Beckschen/ViTamin)]
 * [CVPR 2024] Iterated Learning Improves Compositionality in Large Vision-Language Models [[Paper](https://arxiv.org/abs/2404.02145v1)]
@@ -55,6 +54,7 @@ Last update on 2024/07/24
 * [ECCV 2024] FALIP: Visual Prompt as Foveal Attention Boosts CLIP Zero-Shot Performance [[Paper](https://arxiv.org/abs/2407.05578v1)][[Code](https://pumpkin805.github.io/FALIP/)]
 * [ECCV 2024] GalLoP: Learning Global and Local Prompts for Vision-Language Models [[Paper](https://arxiv.org/pdf/2407.01400)]
 * [ECCV 2024] Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models [[Paper](https://arxiv.org/pdf/2407.05342v1)][[Code](https://github.com/lloongx/DIKI)]
+* [CVPR 2024] Towards Better Vision-Inspired Vision-Language Models [[Paper](https://www.lamda.nju.edu.cn/caoyh/files/VIVL.pdf)]
 * [CVPR 2024] One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models [[Paper](https://arxiv.org/abs/2403.01849v1)][[Code](https://github.com/TreeLLi/APT)]
 * [CVPR 2024] Any-Shift Prompting for Generalization over Distributions [[Paper](https://arxiv.org/abs/2402.10099)]
 * [CVPR 2024] A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models [[Paper](https://arxiv.org/abs/2312.12730)][[Code](https://github.com/jusiro/CLAP)]
@@ -220,6 +220,11 @@ If you find our work useful in your research, please consider citing:
 
 ## Vision-Language Pre-training Methods
 
+
+
+
+
+
 ### Pre-training with Contrastive Objective
 
 | Paper                                             |  Published in | Code/Project |                                  
@@ -255,6 +260,16 @@ If you find our work useful in your research, please consider citing:
 |[ALIP: Adaptive Language-Image Pre-training with Synthetic Caption](https://arxiv.org/pdf/2308.08428.pdf)|ICCV 2023|[Code](https://github.com/deepglint/ALIP)|
 |[GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2308.11331v1.pdf)|ICCV 2023|-|
 |[CLIPpy: Perceptual Grouping in Contrastive Vision-Language Models](https://arxiv.org/abs/2210.09996)|ICCV 2023|-|
+|[Efficient Vision-Language Pre-training by Cluster Masking](https://arxiv.org/pdf/2405.08815)|CVPR 2024|[Code](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)|
+|[ViTamin: Designing Scalable Vision Models in the Vision-Language Era](https://arxiv.org/abs/2404.02132v1)|CVPR 2024|[Code](https://github.com/Beckschen/ViTamin)|
+|[Iterated Learning Improves Compositionality in Large Vision-Language Models](https://arxiv.org/abs/2404.02145v1)|CVPR 2024|-|
+|[FairCLIP: Harnessing Fairness in Vision-Language Learning](https://arxiv.org/abs/2403.19949v1)|CVPR 2024|[Code](https://ophai.hms.harvard.edu/datasets/fairvlmed10k)|
+|[Retrieval-Enhanced Contrastive Vision-Text Models](https://arxiv.org/abs/2306.07196)|ICLR 2024|-|
+
+
+
+
+
 
 
 
@@ -271,6 +286,13 @@ If you find our work useful in your research, please consider citing:
 |[SAM: Segment Anything](https://arxiv.org/abs/2304.02643)|arXiv 2023|[Code](https://github.com/facebookresearch/segment-anything)|
 |[SEEM: Segment Everything Everywhere All at Once](https://arxiv.org/pdf/2304.06718.pdf)|arXiv 2023|[Code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)|
 |[Semantic-SAM: Segment and Recognize Anything at Any Granularity](https://arxiv.org/pdf/2307.04767.pdf)|arXiv 2023|[Code](https://github.com/UX-Decoder/Semantic-SAM)|
+|[Generative Region-Language Pretraining for Open-Ended Object Detection](https://arxiv.org/pdf/2403.10191v1.pdf)|CVPR 2024|[Code](https://github.com/FoundationVision/GenerateU)|
+|[InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238)|CVPR 2024|[Code](https://github.com/OpenGVLab/InternVL)|
+|[VILA: On Pre-training for Visual Language Models](https://arxiv.org/abs/2312.07533)|CVPR 2024|-|
+|[Enhancing Vision-Language Pre-training with Rich Supervisions](https://arxiv.org/pdf/2403.03346v1.pdf)|CVPR 2024|-|
+|[Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization](https://arxiv.org/abs/2309.04669)|ICLR 2024|[Code](https://github.com/jy0205/LaVIT)|
+|[MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning](https://arxiv.org/abs/2309.07915)|ICLR 2024|[Code](https://github.com/PKUnlp-icler/MIC)|
+
 
 
 
@@ -282,11 +304,13 @@ If you find our work useful in your research, please consider citing:
 |[GLIP: Grounded Language-Image Pre-training](https://arxiv.org/abs/2112.03857)|CVPR 2022|[Code](https://github.com/microsoft/GLIP)|
 |[DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection](https://arxiv.org/abs/2209.09407)|NeurIPS 2022|-|
 |[nCLIP: Non-Contrastive Learning Meets Language-Image Pre-Training](https://arxiv.org/abs/2210.09304)|CVPR 2023|[Code](https://github.com/shallowtoil/xclip)|
+|[Do Vision and Language Encoders Represent the World Similarly?](https://openaccess.thecvf.com/content/CVPR2024/papers/Maniparambil_Do_Vision_and_Language_Encoders_Represent_the_World_Similarly_CVPR_2024_paper.pdf)|CVPR 2024|[Code](https://github.com/mayug/0-shot-llm-vision)|
+|[Non-autoregressive Sequence-to-Sequence Vision-Language Models](https://arxiv.org/abs/2403.02249v1)|CVPR 2024|-|
+
 
 ## Vision-Language Model Transfer Learning Methods
 
 ### Transfer with Prompt Tuning
-
 
 #### Transfer with Text Prompt Tuning
 
@@ -330,7 +354,9 @@ If you find our work useful in your research, please consider citing:
 |[TCP:Textual-based Class-aware Prompt tuning for Visual-Language Model](https://arxiv.org/abs/2311.18231)|CVPR 2024|[Code](https://github.com/htyao89/Textual-based_Class-aware_prompt_tuning/)|
 |[One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models](https://arxiv.org/abs/2403.01849v1)|CVPR 2024|[Code](https://github.com/TreeLLi/APT)|
 |[Any-Shift Prompting for Generalization over Distributions](https://arxiv.org/abs/2402.10099)|CVPR 2024|-|
+|[Towards Better Vision-Inspired Vision-Language Models](https://www.lamda.nju.edu.cn/caoyh/files/VIVL.pdf)|CVPR 2024|-|
 |[Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models](https://arxiv.org/pdf/2407.05342v1)|ECCV 2024|[Code](https://github.com/lloongx/DIKI)|
+
 
 
 
