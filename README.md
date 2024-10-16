@@ -27,9 +27,11 @@ The process to submit a pull request is as follows:
 - c. Submit the pull request to this branch.
 
 ## 🔥 News
-Last update on 2024/10/07
+Last update on 2024/10/16
 
 #### VLM Pre-training Methods
+* [arXiv 2024] RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness [[Paper](https://arxiv.org/abs/2405.17220)][[Code](https://github.com/RLHF-V/RLAIF-V)]
+* [CVPR 2024] RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_RLHF-V_Towards_Trustworthy_MLLMs_via_Behavior_Alignment_from_Fine-grained_Correctional_CVPR_2024_paper.pdf)][[Code](https://github.com/RLHF-V/RLHF-V)]
 * [CVPR 2024] Do Vision and Language Encoders Represent the World Similarly? [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Maniparambil_Do_Vision_and_Language_Encoders_Represent_the_World_Similarly_CVPR_2024_paper.pdf)][[Code](https://github.com/mayug/0-shot-llm-vision)]
 * [CVPR 2024] Efficient Vision-Language Pre-training by Cluster Masking [[Paper](https://arxiv.org/pdf/2405.08815)][[Code](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)]
 * [CVPR 2024] Non-autoregressive Sequence-to-Sequence Vision-Language Models [[Paper](https://arxiv.org/abs/2403.02249v1)]
@@ -306,6 +308,8 @@ If you find our work useful in your research, please consider citing:
 |[nCLIP: Non-Contrastive Learning Meets Language-Image Pre-Training](https://arxiv.org/abs/2210.09304)|CVPR 2023|[Code](https://github.com/shallowtoil/xclip)|
 |[Do Vision and Language Encoders Represent the World Similarly?](https://openaccess.thecvf.com/content/CVPR2024/papers/Maniparambil_Do_Vision_and_Language_Encoders_Represent_the_World_Similarly_CVPR_2024_paper.pdf)|CVPR 2024|[Code](https://github.com/mayug/0-shot-llm-vision)|
 |[Non-autoregressive Sequence-to-Sequence Vision-Language Models](https://arxiv.org/abs/2403.02249v1)|CVPR 2024|-|
+|[RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_RLHF-V_Towards_Trustworthy_MLLMs_via_Behavior_Alignment_from_Fine-grained_Correctional_CVPR_2024_paper.pdf)|CVPR 2024|[Code](https://github.com/RLHF-V/RLHF-V)|
+|[RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness](https://arxiv.org/abs/2405.17220)|arXiv 2024|[Code](https://github.com/RLHF-V/RLAIF-V)|
 
 
 ## Vision-Language Model Transfer Learning Methods
