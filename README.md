@@ -27,7 +27,7 @@ The process to submit a pull request is as follows:
 - c. Submit the pull request to this branch.
 
 ## 🔥 News
-Last update on 2024/10/16
+Last update on 2024/11/03
 
 #### VLM Pre-training Methods
 * [arXiv 2024] RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness [[Paper](https://arxiv.org/abs/2405.17220)][[Code](https://github.com/RLHF-V/RLAIF-V)]
@@ -50,6 +50,7 @@ Last update on 2024/10/16
 
 
 #### VLM Transfer Learning Methods
+* [NeurIPS 2024] Historical Test-time Prompt Tuning for Vision Foundation Models [[Paper](https://arxiv.org/pdf/2410.20346)]
 * [NeurIPS 2024] AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation [[Paper](https://arxiv.org/abs/2407.04603)][[Code](https://github.com/MCG-NJU/AWT)]
 * [IJCV 2024] Progressive Visual Prompt Learning with Contrastive Feature Re-formation [[Paper](https://arxiv.org/abs/2304.08386)][[Code](https://github.com/MCG-NJU/ProVP)]
 * [ECCV 2024] CLAP: Isolating Content from Style through Contrastive Learning with Augmented Prompts [[Paper](https://arxiv.org/abs/2311.16445)][[Code](https://github.com/YichaoCai1/CLAP)]
@@ -78,6 +79,7 @@ Last update on 2024/10/16
 
 
 #### VLM Knowledge Distillation for Detection
+* [NeurIPS 2024] Open-Vocabulary Object Detection via Language Hierarchy [[Paper](https://arxiv.org/pdf/2410.20371)]
 * [CVPR 2024] RegionGPT: Towards Region Understanding Vision Language Model [[Paper](https://arxiv.org/pdf/2403.02330v1.pdf)][[Code](https://guoqiushan.github.io/regiongpt.github.io/)]
 * [ICLR 2024] LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors [[Paper](https://arxiv.org/pdf/2402.04630.pdf)]
 * [ICLR 2024] Ins-DetCLIP: Aligning Detection Model to Follow Human-Language Instruction [[Paper](https://openreview.net/pdf?id=M0MF4t3hE9)]
