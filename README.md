@@ -27,7 +27,7 @@ The process to submit a pull request is as follows:
 - c. Submit the pull request to this branch.
 
 ## 🔥 News
-Last update on 2024/11/03
+Last update on 2024/11/26
 
 #### VLM Pre-training Methods
 * [arXiv 2024] RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness [[Paper](https://arxiv.org/abs/2405.17220)][[Code](https://github.com/RLHF-V/RLAIF-V)]
@@ -91,6 +91,7 @@ Last update on 2024/11/03
 #### VLM Knowledge Distillation for Other Vision Tasks
 * [ICLR 2024] FROSTER: Frozen CLIP Is A Strong Teacher for Open-Vocabulary Action Recognition [[Paper](https://arxiv.org/pdf/2402.03241.pdf)][[Project](https://visual-ai.github.io/froster)]
 * [ICLR 2024] AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[Paper](https://arxiv.org/pdf/2310.18961.pdf)][[Code](https://github.com/zqhang/AnomalyCLIP)]
+* [CVPR 2023] EXIF as Language: Learning Cross-Modal Associations Between Images and Camera Metadata [[Paper](https://arxiv.org/abs/2301.04647)][[Code](https://hellomuffin.github.io/exif-as-language/)]
 
 
 ## Abstract
