@@ -45,6 +45,7 @@ Last update on 2024/11/26
 * [ICLR 2024] Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization [[Paper](https://arxiv.org/abs/2309.04669)][[Code](https://github.com/jy0205/LaVIT)]
 * [ICLR 2024] MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning [[Paper](https://arxiv.org/abs/2309.07915)][[Code](https://github.com/PKUnlp-icler/MIC)]
 * [ICLR 2024] Retrieval-Enhanced Contrastive Vision-Text Models [[Paper](https://arxiv.org/abs/2306.07196)]
+* [arXiv 2024] CLIPS: An Enhanced CLIP Framework for Learning with Synthetic Captions [[Paper](https://arxiv.org/abs/2411.16828)][[Code](https://github.com/UCSC-VLAA/CLIPS)]
 
 
 
@@ -270,7 +271,8 @@ If you find our work useful in your research, please consider citing:
 |[Iterated Learning Improves Compositionality in Large Vision-Language Models](https://arxiv.org/abs/2404.02145v1)|CVPR 2024|-|
 |[FairCLIP: Harnessing Fairness in Vision-Language Learning](https://arxiv.org/abs/2403.19949v1)|CVPR 2024|[Code](https://ophai.hms.harvard.edu/datasets/fairvlmed10k)|
 |[Retrieval-Enhanced Contrastive Vision-Text Models](https://arxiv.org/abs/2306.07196)|ICLR 2024|-|
-
+|[CLIPS: An Enhanced CLIP Framework for Learning with Synthetic Captions](https://arxiv.org/abs/2411.16828)]|arXiv 2024|[Code](https://github.com/UCSC-VLAA/CLIPS)|
+|[Sigmoid Loss for Language Image Pre-Training](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhai_Sigmoid_Loss_for_Language_Image_Pre-Training_ICCV_2023_paper.pdf)|CVPR 2023|[Code](https://github.com/google-research/big_vision)|
 
 
 
@@ -336,7 +338,7 @@ If you find our work useful in your research, please consider citing:
 |[SoftCPT: Prompt Tuning with Soft Context Sharing for Vision-Language Models](https://arxiv.org/abs/2208.13474)|arXiv 2022|[Code](https://github.com/kding1225/softcpt)|
 |[SubPT: Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2211.02219)|TCSVT 2023|[Code](https://github.com/machengcheng2016/Subspace-Prompt-Learning)|
 |[LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models](https://arxiv.org/abs/2210.01115)|CVPR 2023|[Code](https://www.adrianbulat.com/lasp)|
-|[LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition](https://arxiv.org/abs/2305.04536)|arXiv 2023|[Code](https://github.com/richard-peng-xia/LMPT)|
+|[LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition](https://arxiv.org/abs/2305.04536)|ACLW 2024|[Code](https://github.com/richard-peng-xia/LMPT)|
 |[Texts as Images in Prompt Tuning for Multi-Label Image Recognition](https://arxiv.org/abs/2211.12739)|CVPR 2023|[code](https://github.com/guozix/TaI-DPT)
 |[Visual-Language Prompt Tuning with Knowledge-guided Context Optimization](https://arxiv.org/abs/2303.13283)|CVPR 2023|[Code](https://github.com/htyao89/KgCoOp)|
 |[Learning to Name Classes for Vision and Language Models](https://arxiv.org/abs/2304.01830v1)|CVPR 2023|-|
@@ -428,7 +430,7 @@ If you find our work useful in your research, please consider citing:
 |[VL-PET: Vision-and-Language Parameter-Efficient Tuning via Granularity Control](https://arxiv.org/abs/2308.09804)|ICCV 2023|[Code](https://github.com/HenryHZY/VL-PET)|
 |[SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More](https://arxiv.org/abs/2304.09148)|arXiv 2023|[Code](http://tianrun-chen.github.io/SAM-Adaptor/)|
 |[Segment Anything in High Quality](https://arxiv.org/abs/2306.01567)|arXiv 2023|[Code](https://github.com/SysCV/SAM-HQ)|
-|[HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding](https://arxiv.org/abs/2311.14064)|arXiv 2023|[Code](https://github.com/richard-peng-xia/HGCLIP)|
+|[HGCLIP: Exploring Vision-Language Models with Graph Representations for Hierarchical Understanding](https://arxiv.org/abs/2311.14064)|COLING 2025|[Code](https://github.com/richard-peng-xia/HGCLIP)|
 |[CLAP: Contrastive Learning with Augmented Prompts for Robustness on Pretrained Vision-Language Models](https://arxiv.org/abs/2311.16445)|arXiv 2023|-|
 |[AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation](https://arxiv.org/abs/2407.04603)|NeurIPS 2024|[Code](https://github.com/MCG-NJU/AWT)|
 
