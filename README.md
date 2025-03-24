@@ -31,11 +31,30 @@ Last update on 2025/3/24
 
 #### VLM Pre-training Methods
 
+* [NeurIPS 2024] PLIP: Language-Image Pre-training for Person Representation Learning [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/510ad3018bbdc5b6e3b10646e2e35771-Paper-Conference.pdf)][[Code](https://github.com/Zplusdragon/PLIP)]
+* [NeurIPS 2024] LoTLIP: Improving Language-Image Pre-training for Long Text Understanding [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/77828623211df05497ce3658300dafd9-Paper-Conference.pdf)][[Code](https://wuw2019.github.io/lot-lip)]
+* [NeurIPS 2024] Accelerating Pre-training of Multimodal LLMs via Chain-of-Sight [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/8a54a80ffc2834689ffdd0920202018e-Paper-Conference.pdf)][[Code](https://chain-of-sight.github.io/)]
+
 #### VLM Transfer Learning Methods
+* [NeurIPS 2024] ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/4fd96b997454b5b02698595df70fccaf-Paper-Conference.pdf)][[Code](https://github.com/mrwu-mac/ControlMLLM)]
+* [NeurIPS 2024] Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/c1e1ad233411e25b54bb5df3a0576c2c-Paper-Conference.pdf)][[Code](https://lwpyh.github.io/ProMaC/)]
+* [NeurIPS 2024] Visual Fourier Prompt Tuning [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/0a0eba34ab2ff40ca2d2843324dcc4ab-Paper-Conference.pdf)][[Code](https://github.com/runtsang/VFPT)]
+* [NeurIPS 2024] Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/bc667ac84ef58f2b5022da97a465cbab-Paper-Conference.pdf)][[Code](https://github.com/Keke921/GNM-PT)]
+* [NeurIPS 2024] Few-Shot Adversarial Prompt Learning on Vision-Language Models [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/05aedcaf4bc6e78a5e22b4cf9114c5e8-Paper-Conference.pdf)][[Code](https://github.com/lionel-w2/FAP)]
+* [NeurIPS 2024] Visual Prompt Tuning in Null Space for Continual Learning [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/0f06be0008bc568c88d76206aa17954f-Paper-Conference.pdf)][[Code](https://github.com/zugexiaodui/VPTinNSforCL)]
+* [NeurIPS 2024] IPO: Interpretable Prompt Optimization for Vision-Language Models [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/e52e4de8689a9955b6d3ff421d019387-Paper-Conference.pdf)]
+* [NeurIPS 2024] LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning [[Paper](https://papers.nips.cc/paper_files/paper/2023/file/f0606b882692637835e8ac981089eccd-Paper-Conference.pdf)][[Code](https://github.com/AtsuMiyai/LoCoOp)]
+
 
 #### VLM Knowledge Distillation for Detection
 
+* [NeurIPS 2024] Scaling Open-Vocabulary Object Detection [[Paper](https://papers.nips.cc/paper_files/paper/2023/file/e6d58fc68c0f3c36ae6e0e64478a69c0-Paper-Conference.pdf)][[Code](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)]
+* [NeurIPS 2024] Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection [[Paper](https://papers.nips.cc/paper_files/paper/2022/file/dabf612543b97ea9c8f46d058d33cf74-Paper-Conference.pdf)][[Code](https://github.com/hanoonaR/object-centric-ovd)]
+* [NeurIPS 2024] CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection [[Paper](https://papers.nips.cc/paper_files/paper/2023/file/e10a6a906ef323efaf708f76cf3c1d1e-Paper-Conference.pdf)][[Code](https://github.com/CVMI-Lab/CoDet)]
+
 #### VLM Knowledge Distillation for Segmentation
+
+* [NeurIPS 2024] Relationship Prompt Learning is Enough for Open-Vocabulary Semantic Segmentation [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/8773cdaf02c5af3528e05f1cee816129-Paper-Conference.pdf)]
 
 #### VLM Knowledge Distillation for Other Vision Tasks
 
