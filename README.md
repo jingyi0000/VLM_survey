@@ -27,6 +27,9 @@ The process to submit a pull request is as follows:
 - c. Submit the pull request to this branch.
 
 ## 🔥 News
+
+‼️ **We plan to update the arXiv version of our survey paper soon. If your paper is missing from this repository, feel free to contact us or open an issue!**
+
 Last update on 2025/3/24
 
 #### VLM Pre-training Methods
