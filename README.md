@@ -283,6 +283,9 @@ If you find our work useful in your research, please consider citing:
 |[nCLIP: Non-Contrastive Learning Meets Language-Image Pre-Training](https://arxiv.org/abs/2210.09304)|CVPR 2023|[Code](https://github.com/shallowtoil/xclip)|
 |[Do Vision and Language Encoders Represent the World Similarly?](https://openaccess.thecvf.com/content/CVPR2024/papers/Maniparambil_Do_Vision_and_Language_Encoders_Represent_the_World_Similarly_CVPR_2024_paper.pdf)|CVPR 2024|[Code](https://github.com/mayug/0-shot-llm-vision)|
 |[Non-autoregressive Sequence-to-Sequence Vision-Language Models](https://arxiv.org/abs/2403.02249v1)|CVPR 2024|-|
+|[MMRL: Multi-Modal Representation Learning for Vision-Language Models](https://arxiv.org/abs/2503.08497)|CVPR 2025|[Code](https://github.com/yunncheng/MMRL)|
+
+
 
 
 ## Vision-Language Model Transfer Learning Methods
