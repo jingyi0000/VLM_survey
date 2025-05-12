@@ -32,6 +32,10 @@ The process to submit a pull request is as follows:
 
 Last update on 2025/3/24
 
+#### VLMs and Synthetic Data
+
+* [OpenReview 2025] A Survey on Bridging VLMs and Synthetic Data [[Paper](https://openreview.net/pdf?id=ThjDCZOljE)][[Code](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data)]
+
 #### VLM Pre-training Methods
 
 * [NeurIPS 2024] PLIP: Language-Image Pre-training for Person Representation Learning [[Paper](https://papers.nips.cc/paper_files/paper/2024/file/510ad3018bbdc5b6e3b10646e2e35771-Paper-Conference.pdf)][[Code](https://github.com/Zplusdragon/PLIP)]
