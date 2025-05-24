@@ -34,7 +34,7 @@ Last update on 2025/3/24
 
 #### VLMs and Synthetic Data
 
-* [TechRxiv 2025] A Survey on Bridging VLMs and Synthetic Data [[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174741263.32891073/v1)][[Code](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data)]
+* [OpenReview 2025] A Survey on Bridging VLMs and Synthetic Data [[Paper](https://openreview.net/pdf?id=ThjDCZOljE)][[Code](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data)]
 
 #### VLM Pre-training Methods
 
