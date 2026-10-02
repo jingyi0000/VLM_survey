@@ -37,7 +37,7 @@ The process to submit a pull request is as follows:
 
 </p ></details>
 
-📅 Last update on 2025/10/14
+📅 Last update on 2026/10/02
 
 #### VLMs and Synthetic Data
 
