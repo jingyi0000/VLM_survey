@@ -44,6 +44,8 @@ The process to submit a pull request is as follows:
 * [CVPR 2025] Synthetic Data is an Elegant GIFT for Continual Vision-Language Models [[Paper](https://arxiv.org/pdf/2503.04229v1)][[Code](https://github.com/Luo-Jiaming/GIFT_CL)]
 * [CVPR 2025] Enhancing Vision-Language Compositional Understanding with Multimodal Synthetic Data [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Enhancing_Vision-Language_Compositional_Understanding_with_Multimodal_Synthetic_Data_CVPR_2025_paper.pdf)]
 * [OpenReview 2025] A Survey on Bridging VLMs and Synthetic Data [[Paper](https://openreview.net/pdf?id=ThjDCZOljE)][[Code](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data)]
+* [CVPR 2025] Synthetic Visual Genome [[Paper](https://arxiv.org/pdf/2506.07643)]
+* [arXiv 2026] Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos [[Paper](https://arxiv.org/pdf/2602.23543)]
 
 #### VLM Pre-training Methods
 
