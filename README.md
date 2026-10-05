@@ -520,7 +520,7 @@ If you find our work useful in your research, please consider citing:
 |[LLMs Meet VLMs: Boost Open Vocabulary Object Detection with Fine-grained Descriptors](https://arxiv.org/pdf/2402.04630.pdf)|ICLR 2024|-|
 |[Ins-DetCLIP: Aligning Detection Model to Follow Human-Language Instruction](https://openreview.net/pdf?id=M0MF4t3hE9)|ICLR 2024|-|
 |[Open-Vocabulary Object Detection via Language Hierarchy](https://arxiv.org/pdf/2410.20371)|NeurIPS 2024|–|
-
+|[DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection](https://arxiv.org/pdf/2503.09271)|Neurips 2025|[Code](https://github.com/chiara-cap/DitHub)|
 
 
 
