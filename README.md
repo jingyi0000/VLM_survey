@@ -297,6 +297,7 @@ If you find our work useful in your research, please consider citing:
 |[RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness](https://arxiv.org/abs/2405.17220)|arXiv 2024|[Code](https://github.com/RLHF-V/RLAIF-V)|
 |[RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_RLHF-V_Towards_Trustworthy_MLLMs_via_Behavior_Alignment_from_Fine-grained_Correctional_CVPR_2024_paper.pdf)|CVPR 2024|[Code](https://github.com/RLHF-V/RLHF-V)|
 |[Efficient Vision-Language Pre-training by Cluster Masking](https://arxiv.org/pdf/2405.08815)|CVPR 2024|[Code](https://github.com/Zi-hao-Wei/Efficient-Vision-Language-Pre-training-by-Cluster-Masking)|
+|[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935)|arXiv 2026|[Code](https://github.com/MCG-NJU/VideoChat3)|
 
 
 
@@ -353,7 +354,7 @@ If you find our work useful in your research, please consider citing:
 |[Distribution-Aware Prompt Tuning for Vision-Language Models](https://arxiv.org/pdf/2309.03406.pdf)|ICCV 2023|[Code](https://github.com/mlvlab/DAPT)|
 |[LPT: Long-Tailed Prompt Tuning For Image Classification](https://arxiv.org/pdf/2210.01033.pdf)|ICCV 2023|[Code](https://github.com/DongSky/LPT)|
 |[Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Diverse_Data_Augmentation_with_Diffusions_for_Effective_Test-time_Prompt_Tuning_ICCV_2023_paper.pdf)|ICCV 2023|[Code](https://github.com/chunmeifeng/DiffTPT)|
-|[Efficient Test-Time Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2408.05775)|arXiv 2024|-|
+|[Efficient Test-Time Prompt Tuning for Vision-Language Models](https://link.springer.com/article/10.1007/s11263-026-03019-3) [arXiv](https://arxiv.org/abs/2408.05775)|IJCV 2026|-|
 |[Text-driven Prompt Generation for Vision-Language Models in Federated Learning](https://arxiv.org/abs/2310.06123)|ICLR 2024|-|
 |[C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion](https://openreview.net/pdf?id=jzzEHTBFOT)|ICLR 2024|-|
 |[Prompt Gradient Projection for Continual Learning](https://openreview.net/pdf?id=EH2O3h7sBI)|ICLR 2024|-|
@@ -472,6 +473,10 @@ If you find our work useful in your research, please consider citing:
 |[A Closer Look at the Few-Shot Adaptation of Large Vision-Language Models](https://arxiv.org/abs/2312.12730)|CVPR 2024|[Code](https://github.com/jusiro/CLAP)|
 |[Anchor-based Robust Finetuning of Vision-Language Models](https://arxiv.org/abs/2404.06244)|CVPR 2024||
 |[Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners](https://arxiv.org/abs/2404.02117v1)|CVPR 2024|[Code](https://github.com/KHU-AGI/PriViLege)|
+|[MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://arxiv.org/abs/2610.22276)|arXiv 2026|[Code](https://github.com/Fr0zenCrane/MJev-Spatial)|
+|[VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615)|arXiv 2026|[Code](https://github.com/MCG-NJU/VideoJev)|
+|[FreeRet: MLLMs as Training-Free Retrievers](https://proceedings.mlr.press/v306/zhu26ba.html)|ICML 2026|[Code](https://github.com/MCG-NJU/FreeRet)|
+|[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://proceedings.mlr.press/v306/zeng26y.html)|ICML 2026|[Code](https://github.com/MCG-NJU/Video-o3)|
 
 
 
