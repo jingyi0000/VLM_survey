@@ -477,6 +477,7 @@ If you find our work useful in your research, please consider citing:
 |[VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615)|arXiv 2026|[Code](https://github.com/MCG-NJU/VideoJev)|
 |[FreeRet: MLLMs as Training-Free Retrievers](https://proceedings.mlr.press/v306/zhu26ba.html)|ICML 2026|[Code](https://github.com/MCG-NJU/FreeRet)|
 |[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://proceedings.mlr.press/v306/zeng26y.html)|ICML 2026|[Code](https://github.com/MCG-NJU/Video-o3)|
+|[DECENT: Distribution-aware Prototypical Calibration with Fine-grained Voting for VLM Misclassification Detection](https://aclanthology.org/2026.emnlp-main.1665/)|EMNLP 2026|-|
 
 
 
